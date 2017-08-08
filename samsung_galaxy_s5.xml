@@ -1,0 +1,3316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sentences>
+  <sentence id="_Ihe7jm63kU:0">
+    <text>Samsung's Flagship-model,GALAXY S5, having Snapdragon 801 and RAM = 2GB on.</text>
+    <aspectTerms>
+      <aspectTerm term="Snapdragon 801" polarity="neutral" from="43" to="57"/>
+      <aspectTerm term="RAM" polarity="neutral" from="62" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:1">
+    <text>The characteristic is a embossment in a dot shape.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:2">
+    <text>Although people either like this unique dry texture or don't like it, personally i like it.</text>
+    <aspectTerms>
+      <aspectTerm term="dry texture" polarity="positive" from="40" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:3">
+    <text>Corresponding waterproofing of IP67, so: into the water, no problem.</text>
+    <aspectTerms>
+      <aspectTerm term="waterproofing of IP67" polarity="positive" from="14" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:4">
+    <text>The Packing on the Back Panel prevent from the water.</text>
+    <aspectTerms>
+      <aspectTerm term="Back Panel" polarity="neutral" from="19" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:5">
+    <text>Though this is the well-known waterproofing terminal in Japan, but I'm glad the popular brand Samsung correspond it.</text>
+    <aspectTerms>
+      <aspectTerm term="waterproofing" polarity="neutral" from="30" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:6">
+    <text>To put on and take off the battery pack, need to remove the back panel.</text>
+    <aspectTerms>
+      <aspectTerm term="battery pack" polarity="neutral" from="27" to="39"/>
+      <aspectTerm term="back panel" polarity="neutral" from="60" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:7">
+    <text>If you have charged the spare battery pack, and carry it, you could cope with the batteries going flat.</text>
+    <aspectTerms>
+      <aspectTerm term="spare battery pack" polarity="neutral" from="24" to="42"/>
+      <aspectTerm term="batteries" polarity="neutral" from="82" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:8">
+    <text>The earphone jack is capless waterproofing, microUSB terminal with the cap.</text>
+    <aspectTerms>
+      <aspectTerm term="earphone jack" polarity="neutral" from="4" to="17"/>
+      <aspectTerm term="capless waterproofing" polarity="neutral" from="21" to="42"/>
+      <aspectTerm term="microUSB terminal" polarity="neutral" from="44" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:9">
+    <text>When the Charging on the desktop holder, it's needless about opening and shutting the cap, so, this enable the waterproofing performance to maintain long time.</text>
+    <aspectTerms>
+      <aspectTerm term="waterproofing performance" polarity="positive" from="111" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:10">
+    <text>When the equipping on the desktop holder, starting the original launcher.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:11">
+    <text>In the horizontal screen mode, you can access the watch, TV, Schedule, Gallery, etc.</text>
+    <aspectTerms>
+      <aspectTerm term="horizontal screen mode" polarity="neutral" from="7" to="29"/>
+      <aspectTerm term="watch" polarity="neutral" from="50" to="55"/>
+      <aspectTerm term="TV" polarity="neutral" from="57" to="59"/>
+      <aspectTerm term="Schedule" polarity="neutral" from="61" to="69"/>
+      <aspectTerm term="Gallery" polarity="neutral" from="71" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:12">
+    <text>Although GALAXY S5 is the bigger size 5.1" than iPhone 5s(4"), it is the mainstream size of Android smartphone, for example, Xperia Z2.</text>
+    <aspectTerms>
+      <aspectTerm term="size" polarity="neutral" from="33" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:13">
+    <text>A little lighter than Xperia Z2, So-so Carrying easiness.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:14">
+    <text>About the Display, they adopted OLED, with the very nice viewing angle and color development, can be asserted against iPhone 5s or Xperia Z2.</text>
+    <aspectTerms>
+      <aspectTerm term="Display" polarity="positive" from="10" to="17"/>
+      <aspectTerm term="viewing angle" polarity="positive" from="57" to="70"/>
+      <aspectTerm term="color development" polarity="positive" from="75" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:15">
+    <text>Though this may be a little loud color development, you can change on the settings screen.</text>
+    <aspectTerms>
+      <aspectTerm term="color development" polarity="negative" from="33" to="50"/>
+      <aspectTerm term="settings screen" polarity="neutral" from="74" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:16">
+    <text>About the fingerprint authentication sensor with a built in the home button, by sliding the finger vertically, fingerprint recognition.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint authentication sensor" polarity="neutral" from="10" to="43"/>
+      <aspectTerm term="home button" polarity="neutral" from="64" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:17">
+    <text>This sensor can unlocking the screen lock as well as specifying the images or movies don't want to show, to protect your privacy.</text>
+    <aspectTerms>
+      <aspectTerm term="sensor" polarity="neutral" from="5" to="11"/>
+      <aspectTerm term="screen lock" polarity="neutral" from="30" to="41"/>
+      <aspectTerm term="privacy" polarity="neutral" from="121" to="128"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:18">
+    <text>About The lower part of camera, with a built in the heart rate monitor, and you can measure your heart rate.</text>
+    <aspectTerms>
+      <aspectTerm term="lower part of camera" polarity="neutral" from="10" to="30"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="52" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:19">
+    <text>You can start the camera from the lock screen.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="neutral" from="18" to="24"/>
+      <aspectTerm term="lock screen" polarity="neutral" from="34" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:20">
+    <text>The speed of focus and the image stabilization improved.</text>
+    <aspectTerms>
+      <aspectTerm term="speed of focus" polarity="positive" from="4" to="18"/>
+      <aspectTerm term="image stabilization" polarity="positive" from="27" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:21">
+    <text>For example the screenshot photography by sliding the palm of the hand, or hover function, and so on.</text>
+    <aspectTerms>
+      <aspectTerm term="photography" polarity="neutral" from="27" to="38"/>
+      <aspectTerm term="hover function" polarity="neutral" from="75" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:22">
+    <text>This smartphone follows a long-familiar function, especially since the multi-window display the various App in a simultaneous process, so very useful.</text>
+    <aspectTerms>
+      <aspectTerm term="multi-window display" polarity="positive" from="71" to="91"/>
+      <aspectTerm term="App" polarity="neutral" from="104" to="107"/>
+      <aspectTerm term="simultaneous process" polarity="neutral" from="113" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:23">
+    <text>With watching Youtube or Map,You can work.</text>
+    <aspectTerms>
+      <aspectTerm term="Youtube" polarity="neutral" from="14" to="21"/>
+      <aspectTerm term="Map" polarity="neutral" from="25" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:24">
+    <text>As well as, You can simultaneously launch the Browser and Google Chrome.</text>
+    <aspectTerms>
+      <aspectTerm term="Browser" polarity="neutral" from="46" to="53"/>
+      <aspectTerm term="Google Chrome" polarity="neutral" from="58" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:25">
+    <text>You can do any works, with displaying TV broadcasting or the movies in the small window.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:26">
+    <text>In the Home screen, ss compared before Galaxy S4, the animation is different.</text>
+    <aspectTerms>
+      <aspectTerm term="Home screen" polarity="neutral" from="7" to="18"/>
+      <aspectTerm term="animation" polarity="neutral" from="54" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:27">
+    <text>And, by the right flick, App 'magazine' appeared, I thought it is an obstacle.</text>
+    <aspectTerms>
+      <aspectTerm term="App 'magazine'" polarity="negative" from="25" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:28">
+    <text>To return the previous status before Galaxy S4, by long pressing the blank space of Home screen, and change the Settings of Home screen.</text>
+    <aspectTerms>
+      <aspectTerm term="Home screen" polarity="neutral" from="84" to="95"/>
+      <aspectTerm term="Settings of Home screen" polarity="neutral" from="112" to="135"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:29">
+    <text>Then, 'magazine' is doesn't start.</text>
+    <aspectTerms>
+      <aspectTerm term="magazine" polarity="neutral" from="7" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:30">
+    <text>To rearrange the App drawer, press the menu button on the top right corner, and tap the Notification panel.long press the Icon, and drag it 'create folder'.</text>
+    <aspectTerms>
+      <aspectTerm term="App drawer" polarity="neutral" from="17" to="27"/>
+      <aspectTerm term="menu button" polarity="neutral" from="39" to="50"/>
+      <aspectTerm term="Notification panel" polarity="neutral" from="88" to="106"/>
+      <aspectTerm term="Icon" polarity="neutral" from="122" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:31">
+    <text>Input the Folder Name, and Designate Icon want to add a folder altogether, then you can rearrange easily.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:32">
+    <text>It have an effect to hide the useless App, for example Mobile operator's App, Google's App, Samsung's App.</text>
+    <aspectTerms>
+      <aspectTerm term="App" polarity="negative" from="38" to="41"/>
+      <aspectTerm term="Mobile operator's App" polarity="negative" from="55" to="76"/>
+      <aspectTerm term="Google's App" polarity="negative" from="78" to="90"/>
+      <aspectTerm term="Samsung's App" polarity="negative" from="92" to="105"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:33">
+    <text>You can also customize the toggle switch on the Notification Bar.</text>
+    <aspectTerms>
+      <aspectTerm term="toggle switch on the Notification Bar" polarity="neutral" from="27" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:34">
+    <text>Long tap, and rearrange the Icons.</text>
+    <aspectTerms>
+      <aspectTerm term="Icons" polarity="neutral" from="28" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:35">
+    <text>The New function from Galaxy S5.</text>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:36">
+    <text>The Toolbox can display shortcut of App, at all times.</text>
+    <aspectTerms>
+      <aspectTerm term="Toolbox" polarity="neutral" from="4" to="11"/>
+      <aspectTerm term="App" polarity="neutral" from="36" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:37">
+    <text>With One Hand Mode, and so on.</text>
+    <aspectTerms>
+      <aspectTerm term="One Hand Mode" polarity="neutral" from="5" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:38">
+    <text>Since the screen can be reduced,It's useful For the Women and the Children with the small hand, as well as,For the Japanese Train Commuting one hand is full for holding a strap.</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="positive" from="10" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:39">
+    <text>This is the Samsung CM, "Wall Huggers" advertise the superiority to Galaxy S5's battery duration time.</text>
+    <aspectTerms>
+      <aspectTerm term="battery duration time" polarity="neutral" from="80" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:40">
+    <text>As the reason why this Galaxy S5's battery longer than iPhone 5s, because of the exchangeable battery pack, and Ultra Saving Mode.</text>
+    <aspectTerms>
+      <aspectTerm term="battery" polarity="positive" from="35" to="42"/>
+      <aspectTerm term="exchangeable battery pack" polarity="positive" from="81" to="106"/>
+      <aspectTerm term="Ultra Saving Mode" polarity="positive" from="112" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:41">
+    <text>By being a monochrome screen, reducing the battery power consumption overwhelmingly, special to OLED.</text>
+    <aspectTerms>
+      <aspectTerm term="monochrome screen" polarity="neutral" from="11" to="28"/>
+      <aspectTerm term="battery power consumption" polarity="positive" from="43" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:42">
+    <text>Under the Ultra Saving Mode, regardless of remaining battery 10%, possible to 24 hour phone waiting, it's useful when the disaster come, for example earthquake.</text>
+    <aspectTerms>
+      <aspectTerm term="Ultra Saving Mode" polarity="positive" from="10" to="27"/>
+      <aspectTerm term="battery" polarity="neutral" from="53" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:43">
+    <text>There are many glad points for Japanese, for example waterproofing or One Hand Mode.</text>
+    <aspectTerms>
+      <aspectTerm term="waterproofing" polarity="positive" from="53" to="66"/>
+      <aspectTerm term="One Hand Mode" polarity="positive" from="70" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="_Ihe7jm63kU:44">
+    <text>So, this is a very nice smartphone in this term.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:0">
+    <text>Samsung has enjoyed a bumper year since the release of the Samsung Galaxy S4, and it's now trying to keep the good times rolling with the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:1">
+    <text>It looks to be a worthy flagship, but does it have what it takes to fend off the chasing pack?</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:2">
+    <text>If you want to know more at any point during the review, just click the Phones 4u logo to be taken to our website.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:3">
+    <text>Fingerprint scanners are all the rage at the moment, and the S5 is the latest to join the party.</text>
+    <aspectTerms>
+      <aspectTerm term="Fingerprint scanners" polarity="positive" from="0" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:4">
+    <text>It's situated over the home button and can store multiple fingers depending on how you hold your handset.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="23" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:5">
+    <text>Set up is straightforward and use is pretty easy, although it can be a bit awkward to adjust to unlocking your device with it.</text>
+    <aspectTerms>
+      <aspectTerm term="Set up" polarity="positive" from="0" to="6"/>
+      <aspectTerm term="use" polarity="positive" from="30" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:6">
+    <text>Your prints can also be used to verify your Samsung account and make PayPal payments, so there's an extra element of security to the things that matter, something we're hoping will extend to more apps in the future.</text>
+    <aspectTerms>
+      <aspectTerm term="Samsung account" polarity="neutral" from="44" to="59"/>
+      <aspectTerm term="PayPal payments" polarity="neutral" from="69" to="84"/>
+      <aspectTerm term="security" polarity="positive" from="117" to="125"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:7">
+    <text>Sticking with finger reading, Samsung has also dialled up the handset's S Health integration with a heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="finger reading" polarity="neutral" from="14" to="28"/>
+      <aspectTerm term="S Health" polarity="neutral" from="72" to="80"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="100" to="118"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:8">
+    <text>Situated under the camera lens it can track your pulse in a few short seconds, a good indicator for seeing how hard you're working out.</text>
+    <aspectTerms>
+      <aspectTerm term="camera lens" polarity="neutral" from="19" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:9">
+    <text>And when you combine it with existing features like the pedometer, which can show whether you're walking or running, and the in depth graphs and trackers, it's easy to see the effort you're putting in at a glance.</text>
+    <aspectTerms>
+      <aspectTerm term="features" polarity="neutral" from="38" to="46"/>
+      <aspectTerm term="pedometer" polarity="neutral" from="56" to="65"/>
+      <aspectTerm term="graphs" polarity="neutral" from="134" to="140"/>
+      <aspectTerm term="trackers" polarity="neutral" from="145" to="153"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:10">
+    <text>The S5 is water and dust resistant to IP67 rating, so you don't have to worry about a few splashes on the 5.1-inch full HD display when you're out exercising.</text>
+    <aspectTerms>
+      <aspectTerm term="water and dust resistant to IP67 rating" polarity="positive" from="10" to="49"/>
+      <aspectTerm term="5.1-inch full HD display" polarity="neutral" from="106" to="130"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:11">
+    <text>As you would expect the handset's design reflects this, with a covered USB port and a sliver plastic bezel forming a tight seal around the edges.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="neutral" from="34" to="40"/>
+      <aspectTerm term="covered USB port" polarity="neutral" from="63" to="79"/>
+      <aspectTerm term="sliver plastic bezel" polarity="neutral" from="86" to="106"/>
+      <aspectTerm term="edges" polarity="neutral" from="139" to="144"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:12">
+    <text>There's little to change to the general handset shape but there has been a growth in dimensions and theres no escaping it's a big handset.</text>
+    <aspectTerms>
+      <aspectTerm term="shape" polarity="neutral" from="48" to="53"/>
+      <aspectTerm term="dimensions" polarity="negative" from="85" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:13">
+    <text>The rear cover now features a smart dimple motif.</text>
+    <aspectTerms>
+      <aspectTerm term="rear cover" polarity="positive" from="4" to="14"/>
+      <aspectTerm term="dimple motif" polarity="positive" from="36" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:14">
+    <text>The new design looks and feels nice and we're pleased to see some changes, although the plastic material may not be to everyone's taste.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="positive" from="8" to="14"/>
+      <aspectTerm term="plastic material" polarity="negative" from="88" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:15">
+    <text>There's also been a few changes inside thanks to Android KitKat and Samsung.</text>
+    <aspectTerms>
+      <aspectTerm term="Android KitKat" polarity="neutral" from="49" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:16">
+    <text>The OS offers excellent organisation, such as space for your favourite text message recipients, while the firm's UI is bright, clear and responsive.</text>
+    <aspectTerms>
+      <aspectTerm term="OS" polarity="positive" from="4" to="6"/>
+      <aspectTerm term="organisation" polarity="positive" from="24" to="36"/>
+      <aspectTerm term="firm's UI" polarity="positive" from="106" to="115"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:17">
+    <text>My Magazine now has a dedicated swipe to the left, and the Settings menu has be excellently resigned to be more organised and intuitive.</text>
+    <aspectTerms>
+      <aspectTerm term="My Magazine" polarity="neutral" from="0" to="11"/>
+      <aspectTerm term="Settings menu" polarity="positive" from="59" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:18">
+    <text>The menu is broken down into specific areas, so there's no more swiping about searching for a feature.</text>
+    <aspectTerms>
+      <aspectTerm term="menu" polarity="positive" from="4" to="8"/>
+      <aspectTerm term="feature" polarity="neutral" from="94" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:19">
+    <text>One feature that Samsung is particularly proud of is Download Booster.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="neutral" from="4" to="11"/>
+      <aspectTerm term="Download Booster" polarity="neutral" from="53" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:20">
+    <text>This combines Wi-Fiand 4G when downloading an item over 30MB, so you can get things done a lot faster.</text>
+    <aspectTerms>
+      <aspectTerm term="Wi-Fi" polarity="neutral" from="14" to="19"/>
+      <aspectTerm term="4G" polarity="neutral" from="23" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:21">
+    <text>There's even an option to see just how rapidly you're doing it.</text>
+    <aspectTerms>
+      <aspectTerm term="option" polarity="positive" from="16" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:22">
+    <text>Going fast is something you'll experience all over the S5, especially with the 2.5 GHz quad-core processor.</text>
+    <aspectTerms>
+      <aspectTerm term="2.5 GHz quad-core processor" polarity="positive" from="79" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:23">
+    <text>It's currently one of the biggest on the market and it shows.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:24">
+    <text>Multitasking is seamless and it offers near flawless performance, even when you're running demanding content.</text>
+    <aspectTerms>
+      <aspectTerm term="Multitasking" polarity="positive" from="0" to="12"/>
+      <aspectTerm term="performance" polarity="positive" from="53" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:25">
+    <text>A 2800mAh battery means the S5's stamina will also impress.</text>
+    <aspectTerms>
+      <aspectTerm term="2800mAh battery" polarity="positive" from="2" to="17"/>
+      <aspectTerm term="stamina" polarity="positive" from="33" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:26">
+    <text>We managed to get a day and a bit's use out of a full charge, although you can expect this to decrease with heavy gaming or streaming.</text>
+    <aspectTerms>
+      <aspectTerm term="use" polarity="neutral" from="36" to="39"/>
+      <aspectTerm term="full charge" polarity="neutral" from="49" to="60"/>
+      <aspectTerm term="heavy gaming" polarity="neutral" from="108" to="120"/>
+      <aspectTerm term="streaming" polarity="neutral" from="124" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:27">
+    <text>But even then your charge can be elongated with Power saving mode, an invaluable feature that can keep you going for 24 hours on 10% by limiting app access and using grey scale.</text>
+    <aspectTerms>
+      <aspectTerm term="charge" polarity="neutral" from="19" to="25"/>
+      <aspectTerm term="Power saving mode" polarity="positive" from="48" to="65"/>
+      <aspectTerm term="feature" polarity="positive" from="81" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:28">
+    <text>Speed and performance also extends to the camera, and the S5's 16 megapixel sensor can autofocus and capture in 0.3 seconds.</text>
+    <aspectTerms>
+      <aspectTerm term="Speed" polarity="neutral" from="0" to="5"/>
+      <aspectTerm term="performance" polarity="neutral" from="10" to="21"/>
+      <aspectTerm term="camera" polarity="positive" from="42" to="48"/>
+      <aspectTerm term="16 megapixel sensor" polarity="neutral" from="63" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:29">
+    <text>This really is fast, and we're impressed at how soon you can have the camera on and snap an image.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="70" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:30">
+    <text>There are plenty of features on offer, such as Selective Focus which lets you blur the foreground or background after capture.</text>
+    <aspectTerms>
+      <aspectTerm term="features" polarity="positive" from="20" to="28"/>
+      <aspectTerm term="Selective Focus" polarity="positive" from="47" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:31">
+    <text>Modes like Action Shot return from the S4, which has had a makeover to encompass things like Eraser in one handy package.</text>
+    <aspectTerms>
+      <aspectTerm term="Modes" polarity="neutral" from="0" to="5"/>
+      <aspectTerm term="Action Shot" polarity="neutral" from="11" to="22"/>
+      <aspectTerm term="Eraser" polarity="neutral" from="93" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:32">
+    <text>You can even take your own 3D image to explore with Virtual tour shot.</text>
+    <aspectTerms>
+      <aspectTerm term="3D image" polarity="neutral" from="27" to="35"/>
+      <aspectTerm term="Virtual tour shot" polarity="positive" from="52" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:33">
+    <text>But the headline has to be 4k video capture, which lets you shoot in twice HD.</text>
+    <aspectTerms>
+      <aspectTerm term="4k video capture" polarity="positive" from="27" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:34">
+    <text>Although you can't enjoy the full benefit on the S5's 1080p screen it still looks stunning, as does everything else.</text>
+    <aspectTerms>
+      <aspectTerm term="1080p screen" polarity="positive" from="54" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:35">
+    <text>Connect it to a UHD TV and you will be suitably impressed.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:36">
+    <text>If that's not enough you can also record video in 1080p at 60 fps.</text>
+    <aspectTerms>
+      <aspectTerm term="video in 1080p at 60 fps" polarity="positive" from="41" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:37">
+    <text>The Samsung Galaxy S5 had a tough act to follow, but the firm has done a great job by improving on key aspects.</text>
+    <aspectTerms>
+      <aspectTerm term="key aspects" polarity="positive" from="99" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:38">
+    <text>The handset is a solid step forward from its predecessors and, as a standalone handset, has an awful lot to offer.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:39">
+    <text>Don't forget to hit that thumbs up button and subscribe to our YouTube channel to watch the full review as soon as it goes live.</text>
+  </sentence>
+  <sentence id="1lxAO_YgZ98:40">
+    <text>You can also read our written review by clicking the link in the description below.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:0">
+    <text>One of the biggest smartphone launches of 2014.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:1">
+    <text>It's the brand new flagship from Samsung!</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:2">
+    <text>The Samsung S5!</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:3">
+    <text>This the variant from Sprint, the nation's third largest wireless provider, with the model number SM-G900P.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:4">
+    <text>I'm Muwen360.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:5">
+    <text>Let's get into the review.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:6">
+    <text>The Samsung Galaxy S5 is the latest phone from Samsung.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:7">
+    <text>It succeeds the S4 to become Samsung's new flagship device.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:8">
+    <text>You can get this from Sprint for $199 with a 2 year contract or $649 unlocked.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:9">
+    <text>The biggest shocker that a lot of people had with the S5 when it was first announced, was the material they chose for the back of the phone.</text>
+    <aspectTerms>
+      <aspectTerm term="material" polarity="neutral" from="94" to="102"/>
+      <aspectTerm term="back" polarity="neutral" from="122" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:10">
+    <text>It's this soft-touch matte finish with many little dimples on the back.</text>
+    <aspectTerms>
+      <aspectTerm term="soft-touch matte finish" polarity="neutral" from="10" to="33"/>
+      <aspectTerm term="little dimples on the back" polarity="neutral" from="44" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:11">
+    <text>And a lot of people thought it was ugly and unnecessary so on and so forth.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:12">
+    <text>But in reality, at least from a person that played around with the phone, I can tell you that the material on the back is a real pleasure to hold.</text>
+    <aspectTerms>
+      <aspectTerm term="material on the back" polarity="positive" from="98" to="118"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:13">
+    <text>Granted it might not be as pretty as the HTC One M8 or the iPhone 5S, but the back of the phone on the S5 serves a great purpose.</text>
+    <aspectTerms>
+      <aspectTerm term="back of the phone" polarity="positive" from="78" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:14">
+    <text>First of all, it rejects fingerprints extremely well when you compare it to previous phones from Samsung that had that glossy finish on the back.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:15">
+    <text>My favorite part about the back is that it's very easy to grip and hold the phone with those little dimples because they really allow your fingers to have good traction to hold the phone.</text>
+    <aspectTerms>
+      <aspectTerm term="back" polarity="positive" from="27" to="31"/>
+      <aspectTerm term="grip and hold" polarity="positive" from="58" to="71"/>
+      <aspectTerm term="little dimples" polarity="positive" from="93" to="107"/>
+      <aspectTerm term="traction" polarity="positive" from="160" to="168"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:16">
+    <text>Plus, just the nature of that soft-touch matte finish on the back makes it really comfortable to hold it the hand which is another thing that I like.</text>
+    <aspectTerms>
+      <aspectTerm term="soft-touch matte finish on the back" polarity="positive" from="30" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:17">
+    <text>Overall the design of the back really isn't as bad as some people say.</text>
+    <aspectTerms>
+      <aspectTerm term="design of the back" polarity="positive" from="12" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:18">
+    <text>It might not the prettiest thing in the world but it works really well.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:19">
+    <text>The design for the rest phone is very similar to the S4.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="neutral" from="4" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:20">
+    <text>We've still got the fake metal ring around the phone and the tapered edges.</text>
+    <aspectTerms>
+      <aspectTerm term="fake metal ring" polarity="neutral" from="20" to="35"/>
+      <aspectTerm term="tapered edges" polarity="neutral" from="61" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:21">
+    <text>So very similar in terms of design between the S4 and the S5.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="neutral" from="28" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:22">
+    <text>The GS5 is slightly bigger that the S4.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:23">
+    <text>It measures to 5.59 inches tall by 2.85 inches wide by 0.32-inch thick.</text>
+    <aspectTerms>
+      <aspectTerm term="5.59 inches tall" polarity="neutral" from="15" to="31"/>
+      <aspectTerm term="2.85 inches wide" polarity="neutral" from="35" to="51"/>
+      <aspectTerm term="0.32-inch thick" polarity="neutral" from="55" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:24">
+    <text>So slightly heavier than the S4 due to the extra hardware but still very light to carry around.</text>
+    <aspectTerms>
+      <aspectTerm term="hardware" polarity="neutral" from="49" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:25">
+    <text>The home button just ever-so-slightly more capsule-shaped.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="4" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:26">
+    <text>Also less clicky too in my opinion due to that fingerprint scanner which I'll explain later.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="47" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:27">
+    <text>And of course we still have the capacitive multi tasking and back keys.</text>
+    <aspectTerms>
+      <aspectTerm term="capacitive multi tasking" polarity="neutral" from="32" to="56"/>
+      <aspectTerm term="back keys" polarity="neutral" from="61" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:28">
+    <text>The display of the S5 is an improvement over the S4.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="4" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:29">
+    <text>It's got that full 1080p Super AMOLED HD display.</text>
+    <aspectTerms>
+      <aspectTerm term="full 1080p Super AMOLED HD display" polarity="neutral" from="14" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:30">
+    <text>1920x1080 resolution screen with a pixel density of 432 pixels per inch.</text>
+    <aspectTerms>
+      <aspectTerm term="1920x1080 resolution screen" polarity="neutral" from="0" to="27"/>
+      <aspectTerm term="pixel density of 432 pixels per inch" polarity="neutral" from="35" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:31">
+    <text>The screen is absolutely gorgeous.</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="positive" from="4" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:32">
+    <text>One of the best phone displays on the market right now.</text>
+    <aspectTerms>
+      <aspectTerm term="displays" polarity="positive" from="22" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:33">
+    <text>Images are extremely crisp and colorful, with good contrast.</text>
+    <aspectTerms>
+      <aspectTerm term="Images" polarity="positive" from="0" to="6"/>
+      <aspectTerm term="contrast" polarity="positive" from="51" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:34">
+    <text>Photos and videos look really great.</text>
+    <aspectTerms>
+      <aspectTerm term="Photos" polarity="positive" from="0" to="6"/>
+      <aspectTerm term="videos" polarity="positive" from="11" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:35">
+    <text>The display can get pretty bright and you also get a wide viewing angle which is really nice.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="4" to="11"/>
+      <aspectTerm term="viewing angle" polarity="positive" from="58" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:36">
+    <text>I've also noticed that it's better at reducing glare as well.</text>
+    <aspectTerms>
+      <aspectTerm term="reducing glare" polarity="positive" from="38" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:37">
+    <text>External controls are where you expect them on a Samsung phone: power is on the right, volume buttons on the left.</text>
+    <aspectTerms>
+      <aspectTerm term="External controls" polarity="neutral" from="0" to="17"/>
+      <aspectTerm term="power" polarity="neutral" from="64" to="69"/>
+      <aspectTerm term="right" polarity="neutral" from="80" to="85"/>
+      <aspectTerm term="volume buttons" polarity="neutral" from="87" to="101"/>
+      <aspectTerm term="left" polarity="neutral" from="109" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:38">
+    <text>3.5 millimeter headphone jack up top, next to the IR blaster.</text>
+    <aspectTerms>
+      <aspectTerm term="3.5 millimeter headphone jack" polarity="neutral" from="0" to="29"/>
+      <aspectTerm term="up top" polarity="neutral" from="30" to="36"/>
+      <aspectTerm term="IR blaster" polarity="neutral" from="50" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:39">
+    <text>On the back, we have the new heart rate monitor that is integrated with the camera's LED flash.</text>
+    <aspectTerms>
+      <aspectTerm term="back" polarity="neutral" from="7" to="11"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="29" to="47"/>
+      <aspectTerm term="camera's LED flash" polarity="neutral" from="76" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:40">
+    <text>The USB 3.0 charging port is a little different.</text>
+    <aspectTerms>
+      <aspectTerm term="USB 3.0 charging port" polarity="neutral" from="4" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:41">
+    <text>It now has a little flap door which you now need to peel open whenever you want to access it.</text>
+    <aspectTerms>
+      <aspectTerm term="flap door" polarity="neutral" from="20" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:42">
+    <text>It is a little annoying to do it every time you want to use it but it was necessary for that IP67 certification for water and dust resistance.</text>
+    <aspectTerms>
+      <aspectTerm term="IP67 certification for water and dust resistance" polarity="neutral" from="93" to="141"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:43">
+    <text>The 6 means the phone can be completely submerged by water 3 feet for about 30 minutes.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:44">
+    <text>The 7 means that it's completely resistant to all dust.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:45">
+    <text>And also the back of the phone is removable and you do have access through that to the lithium-ion battery.</text>
+    <aspectTerms>
+      <aspectTerm term="back" polarity="neutral" from="13" to="17"/>
+      <aspectTerm term="lithium-ion battery" polarity="neutral" from="87" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:46">
+    <text>For the user interface, the GS5 runs Android 4.4 KitKat with Samsung's own TouchWiz customizations.</text>
+    <aspectTerms>
+      <aspectTerm term="user interface" polarity="neutral" from="8" to="22"/>
+      <aspectTerm term="Android 4.4 KitKat" polarity="neutral" from="37" to="55"/>
+      <aspectTerm term="TouchWiz customizations" polarity="neutral" from="75" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:47">
+    <text>In the GS5, you get a updated version of TouchWiz which is a huge improvement over previous versions.</text>
+    <aspectTerms>
+      <aspectTerm term="TouchWiz" polarity="positive" from="41" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:48">
+    <text>Samsung kind of tweaked it to freshen up its look and feel.</text>
+    <aspectTerms>
+      <aspectTerm term="look and feel" polarity="positive" from="45" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:49">
+    <text>The icons are more modern and flat.</text>
+    <aspectTerms>
+      <aspectTerm term="icons" polarity="positive" from="4" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:50">
+    <text>It also has less pre-loaded Samsung apps which is nice but there is still Sprint pre-installed stuff though.</text>
+    <aspectTerms>
+      <aspectTerm term="pre-loaded Samsung apps" polarity="positive" from="17" to="40"/>
+      <aspectTerm term="Sprint pre-installed stuff" polarity="negative" from="74" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:51">
+    <text>The interface does have the magazine screen carried over from the Galaxy Tab Pro line.</text>
+    <aspectTerms>
+      <aspectTerm term="interface" polarity="neutral" from="4" to="13"/>
+      <aspectTerm term="magazine screen" polarity="neutral" from="28" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:52">
+    <text>What it essentially does is give you a Flipboard style magazine which is fine for what it does.</text>
+    <aspectTerms>
+      <aspectTerm term="Flipboard style magazine" polarity="neutral" from="39" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:53">
+    <text>But it might bother a lot of people like me that you can't get rid of the magazine screen because it does get in the way sometimes.</text>
+    <aspectTerms>
+      <aspectTerm term="magazine screen" polarity="negative" from="74" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:54">
+    <text>The settings menu is updated and you get more sorting options so you can get access to the setting you want faster.</text>
+    <aspectTerms>
+      <aspectTerm term="settings menu" polarity="positive" from="4" to="17"/>
+      <aspectTerm term="sorting options" polarity="positive" from="46" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:55">
+    <text>So thumbs up to Samsung for doing that.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:56">
+    <text>A pretty awesome feature they built into the S5 is the new multi-tasking capability.</text>
+    <aspectTerms>
+      <aspectTerm term="multi-tasking capability" polarity="positive" from="59" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:57">
+    <text>It allows you to run two separate apps simultaneously to really boost your productivity.</text>
+    <aspectTerms>
+      <aspectTerm term="apps" polarity="neutral" from="34" to="38"/>
+      <aspectTerm term="productivity" polarity="positive" from="75" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:58">
+    <text>Very cool and useful in a lot of situations and definitely worth checking out.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:59">
+    <text>The Galaxy S5 is very fast and responsive thanks to its 2.5 GHz Qualcomm Snapdragon 801 Quad-core processor with that Adreno 330 graphics.</text>
+    <aspectTerms>
+      <aspectTerm term="2.5 GHz Qualcomm Snapdragon 801 Quad-core processor" polarity="positive" from="56" to="107"/>
+      <aspectTerm term="Adreno 330 graphics" polarity="positive" from="118" to="137"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:60">
+    <text>Everything loads up really fast and definitely a high-performing phone as you would expect it to be.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:61">
+    <text>The camera on the Galaxy S5 is amazing.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="4" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:62">
+    <text>I'd say it has one of the best cameras out there for a phone right now.</text>
+    <aspectTerms>
+      <aspectTerm term="cameras" polarity="positive" from="31" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:63">
+    <text>It has a 16 megapixel camera on the back that has auto focus with LED flash.</text>
+    <aspectTerms>
+      <aspectTerm term="16 megapixel camera" polarity="neutral" from="9" to="28"/>
+      <aspectTerm term="back" polarity="neutral" from="36" to="40"/>
+      <aspectTerm term="auto focus" polarity="neutral" from="50" to="60"/>
+      <aspectTerm term="LED flash" polarity="neutral" from="66" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:64">
+    <text>The front facing camera is a 2 megapixel camera.</text>
+    <aspectTerms>
+      <aspectTerm term="front facing camera" polarity="neutral" from="4" to="23"/>
+      <aspectTerm term="2 megapixel camera" polarity="neutral" from="29" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:65">
+    <text>Samsung has definitely improved in the camera department.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:66">
+    <text>Photos that you take with the phone look really good.</text>
+    <aspectTerms>
+      <aspectTerm term="Photos" polarity="positive" from="0" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:67">
+    <text>Colors are rich and they really natural.</text>
+    <aspectTerms>
+      <aspectTerm term="Colors" polarity="positive" from="0" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:68">
+    <text>The camera does also have 4K ultra HD video recording capabilities.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="neutral" from="4" to="10"/>
+      <aspectTerm term="4K ultra HD video recording capabilities" polarity="neutral" from="26" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:69">
+    <text>You get a ton of settings and features in the camera app which is also improved.</text>
+    <aspectTerms>
+      <aspectTerm term="settings" polarity="positive" from="17" to="25"/>
+      <aspectTerm term="features" polarity="positive" from="30" to="38"/>
+      <aspectTerm term="camera app" polarity="positive" from="46" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:70">
+    <text>You can make tons of edits and quick adjustments to your pictures right in the app which is very cool.</text>
+    <aspectTerms>
+      <aspectTerm term="edits and quick adjustments to your pictures" polarity="positive" from="21" to="65"/>
+      <aspectTerm term="app" polarity="neutral" from="79" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:71">
+    <text>Overall, great camera for taking pictures and shooting pictures and if you're someone that take a lot pictures with your phone, you're really going to like the camera on the S5.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="15" to="21"/>
+      <aspectTerm term="taking pictures" polarity="positive" from="26" to="41"/>
+      <aspectTerm term="shooting pictures" polarity="positive" from="46" to="63"/>
+      <aspectTerm term="pictures" polarity="positive" from="102" to="110"/>
+      <aspectTerm term="camera" polarity="positive" from="160" to="166"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:72">
+    <text>As for the battery life, it's got a decent sized 2,800 mill ampere battery.</text>
+    <aspectTerms>
+      <aspectTerm term="battery life" polarity="positive" from="11" to="23"/>
+      <aspectTerm term="2,800 mill ampere battery" polarity="positive" from="49" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:73">
+    <text>The battery lasted around 10 hours for me with 4G, GPS on and some gaming and internet browsing so it should get you through the day without any problem.</text>
+    <aspectTerms>
+      <aspectTerm term="battery" polarity="neutral" from="4" to="11"/>
+      <aspectTerm term="4G" polarity="neutral" from="47" to="49"/>
+      <aspectTerm term="GPS" polarity="neutral" from="51" to="54"/>
+      <aspectTerm term="gaming" polarity="neutral" from="67" to="73"/>
+      <aspectTerm term="internet browsing" polarity="neutral" from="78" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:74">
+    <text>Alright so now I want to get into the two most hyped features of the Galaxy S5 and that is number 1 the fingerprint scanner and number 2 the heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="104" to="123"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="141" to="159"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:75">
+    <text>So I'll first talk about the fingerprint scanner.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="29" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:76">
+    <text>So the fingerprint scanner on the Galaxy S5 is probably inspired by the fingerprint print scanner on the iPhone 5S and it works okay on the S5.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="7" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:77">
+    <text>I mean it works and if you do it correctly, it will unlock your phone.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:78">
+    <text>But it's not always accurate.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:79">
+    <text>Sometimes it works.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:80">
+    <text>Sometimes it doesn't so the results you get will vary.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:81">
+    <text>So the fingerprint scanner is cool and everything even though it doesn't work as well as the one on iPhone 5S.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="positive" from="7" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:82">
+    <text>It's still valid choice if you want to have another way to secure and unlock your phone.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:83">
+    <text>Next, the heart rate monitor is a new thing.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="10" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:84">
+    <text>The Galaxy S5 is the first to have this feature.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="neutral" from="40" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:85">
+    <text>You can access it through the S Health app and to use just put your finger on the sensor located in the back of the phone and it measures heart rate.</text>
+    <aspectTerms>
+      <aspectTerm term="S Health app" polarity="neutral" from="30" to="42"/>
+      <aspectTerm term="sensor" polarity="neutral" from="82" to="88"/>
+      <aspectTerm term="back" polarity="neutral" from="104" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:86">
+    <text>It tells you your heart rate after 10, 15 seconds and that's basically what it does.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:87">
+    <text>The heart rate monitor might be a great feature for people when their exercising to easily know how fast their heart is beating.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="positive" from="4" to="22"/>
+      <aspectTerm term="feature" polarity="positive" from="40" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:88">
+    <text>So the uses are different for different people.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:89">
+    <text>It's cool to have it but it's really not a feature that I think everybody could take advantage of.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="negative" from="43" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:90">
+    <text>So overall the Samsung Galaxy S5 is basically with the exception of a few non essential hardware and software additions -- like the fingerprint scanner and the heart-rate monitor -- and a few design tweaks here and there, you're pretty much looking at the same phone Samsung released last year, the Galaxy S4.</text>
+    <aspectTerms>
+      <aspectTerm term="hardware and software additions" polarity="neutral" from="88" to="119"/>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="132" to="151"/>
+      <aspectTerm term="heart-rate monitor" polarity="neutral" from="160" to="178"/>
+      <aspectTerm term="design" polarity="conflict" from="192" to="198"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:91">
+    <text>So the Galaxy S5 is really an evolutionary upgrade over the S4 and that is why a lot people are calling it the Galaxy S4 Plus so I'd say if you have the S4 right now, I'd say this is an upgrade you could skip and perhaps wait until year when Samsung hopefully will release a more revolutionary Galaxy S6.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:92">
+    <text>But you're someone that is in the market for a brand new phone to replace your old one, this could be a great option for you.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:93">
+    <text>It's got everything you would ever want in a smartphone, good camera, fast processor and you really can't go wrong with the S5 in terms of performance.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="62" to="68"/>
+      <aspectTerm term="processor" polarity="positive" from="75" to="84"/>
+      <aspectTerm term="performance" polarity="positive" from="139" to="150"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="jdzbw68mpZE:94">
+    <text>So this will wrap up review of the Samsung Galaxy S5 and if you enjoyed this review, please hit the like button down below since it would help me a lot.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:95">
+    <text>And don't forget to subscribe for more reviews like this in the future.</text>
+  </sentence>
+  <sentence id="jdzbw68mpZE:96">
+    <text>Stay tuned for more videos and I'll see you guys later.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:0">
+    <text>Despite the complaints about its design and reviewers moaning, the Samsung Galaxy S5 has achieved a great commercial success with over 10 million global sales in 25 days.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="negative" from="33" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:1">
+    <text>How did a device disappoint reviewers and consumers but at the same time is selling like hot cakes?</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:2">
+    <text>There are two possible scenarios: 1.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:3">
+    <text>The Galaxy S5 is pretty capable overall - 2.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:4">
+    <text>The Galaxy S5 owners are a barking dog that never bites.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:5">
+    <text>This is Sakis Karpas in another episode of Unboxholics and this is the Samsung Galaxy S5, the flagship of all flagship smartphones not in terms of tech specs but in everything else.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:6">
+    <text>Samsung sent us the review unit of the smartphone, so there's no unboxing.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:7">
+    <text>Let's start with the design.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="neutral" from="21" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:8">
+    <text>The Galaxy S5's design follows an identical design path like the previous entries in the Galaxy Series and that is plastic materials of good quality accompanied by nickel details on the outline of the smartphone's body and a back side texture that has a velvet and leather feeling at the same time.</text>
+    <aspectTerms>
+      <aspectTerm term="design" polarity="neutral" from="16" to="22"/>
+      <aspectTerm term="plastic materials" polarity="positive" from="115" to="132"/>
+      <aspectTerm term="nickel details" polarity="neutral" from="164" to="178"/>
+      <aspectTerm term="outline" polarity="neutral" from="186" to="193"/>
+      <aspectTerm term="body" polarity="neutral" from="214" to="218"/>
+      <aspectTerm term="back side texture" polarity="neutral" from="225" to="242"/>
+      <aspectTerm term="velvet and leather feeling" polarity="neutral" from="254" to="280"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:9">
+    <text>Although there are smartphones currently available in the market with better overall build quality, the back side texture of the Samsung Galaxy S5 makes us feel that the smartphone is safe in our hands and its delicate design is enough to satisfy us.</text>
+    <aspectTerms>
+      <aspectTerm term="build quality" polarity="negative" from="85" to="98"/>
+      <aspectTerm term="back side texture" polarity="positive" from="104" to="121"/>
+      <aspectTerm term="design" polarity="positive" from="219" to="225"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:10">
+    <text>Let's take a look at the smartphone's dimensions.</text>
+    <aspectTerms>
+      <aspectTerm term="dimensions" polarity="neutral" from="38" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:11">
+    <text>Height: 142 mm x Width: 72.5 mm x Thickness: 8.1 mm Weight: 145 g (quite normal proportionally to its size) Front side: 1x calls speaker, Screen sensors and 1x 2MP camera that is capable of 1080p 30FPS video recording.</text>
+    <aspectTerms>
+      <aspectTerm term="Height" polarity="neutral" from="0" to="6"/>
+      <aspectTerm term="Width" polarity="neutral" from="17" to="22"/>
+      <aspectTerm term="Thickness" polarity="neutral" from="34" to="43"/>
+      <aspectTerm term="Weight" polarity="neutral" from="52" to="58"/>
+      <aspectTerm term="size" polarity="neutral" from="102" to="106"/>
+      <aspectTerm term="Front side" polarity="neutral" from="108" to="118"/>
+      <aspectTerm term="calls speaker" polarity="neutral" from="123" to="136"/>
+      <aspectTerm term="Screen sensors" polarity="neutral" from="138" to="152"/>
+      <aspectTerm term="2MP camera" polarity="neutral" from="160" to="170"/>
+      <aspectTerm term="1080p 30FPS video recording" polarity="neutral" from="190" to="217"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:12">
+    <text>The home button has fingerprint scanning capabilities which we'll analyse in a bit and next to it we found the usual function buttons.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="4" to="15"/>
+      <aspectTerm term="fingerprint scanning capabilities" polarity="neutral" from="20" to="53"/>
+      <aspectTerm term="function buttons" polarity="neutral" from="117" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:13">
+    <text>Bottom side: Micro-USB port and 1x microphone, the volume button of the device can be found on the left side along with the power button on the right side while its headphones port, its noise cancellation microphone and its IR Blaster are situated on the top side.</text>
+    <aspectTerms>
+      <aspectTerm term="Bottom side" polarity="neutral" from="0" to="11"/>
+      <aspectTerm term="Micro-USB port" polarity="neutral" from="13" to="27"/>
+      <aspectTerm term="microphone" polarity="neutral" from="35" to="45"/>
+      <aspectTerm term="volume button" polarity="neutral" from="51" to="64"/>
+      <aspectTerm term="left side" polarity="neutral" from="99" to="108"/>
+      <aspectTerm term="power button" polarity="neutral" from="124" to="136"/>
+      <aspectTerm term="right side" polarity="neutral" from="144" to="154"/>
+      <aspectTerm term="headphones port" polarity="neutral" from="165" to="180"/>
+      <aspectTerm term="noise cancellation microphone" polarity="neutral" from="186" to="215"/>
+      <aspectTerm term="IR Blaster" polarity="neutral" from="224" to="234"/>
+      <aspectTerm term="top side" polarity="neutral" from="255" to="263"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:14">
+    <text>The back side features a 16MP camera, a LED flash and the device's main speaker which although it does not sound as clear as we would have liked, its bass and volume levels are satisfying.</text>
+    <aspectTerms>
+      <aspectTerm term="back side" polarity="neutral" from="4" to="13"/>
+      <aspectTerm term="16MP camera" polarity="neutral" from="25" to="36"/>
+      <aspectTerm term="LED flash" polarity="neutral" from="40" to="49"/>
+      <aspectTerm term="main speaker" polarity="conflict" from="67" to="79"/>
+      <aspectTerm term="bass and volume levels" polarity="positive" from="150" to="172"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:15">
+    <text>The back flexible cover of the Galaxy S5 can be removed to give access to the phone's battery, the SIM card slot and the MicroSD slot.</text>
+    <aspectTerms>
+      <aspectTerm term="back flexible cover" polarity="neutral" from="4" to="23"/>
+      <aspectTerm term="battery" polarity="neutral" from="86" to="93"/>
+      <aspectTerm term="SIM card slot" polarity="neutral" from="99" to="112"/>
+      <aspectTerm term="MicroSD slot" polarity="neutral" from="121" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:16">
+    <text>Samsung Galaxy S5's IP67 certification means that it can stand with a lot of water and dust.</text>
+    <aspectTerms>
+      <aspectTerm term="IP67 certification" polarity="neutral" from="20" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:17">
+    <text>Despite our mini-heart attacks while doing the tests, it made us proud.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:18">
+    <text>And we guess the Samsung engineers will be too.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:19">
+    <text>Keep in mind that you need to make sure that the back cover of your Galaxy S5 has been secured tightly in its place and that the Micro USB port is closed with its cap.</text>
+    <aspectTerms>
+      <aspectTerm term="back cover" polarity="neutral" from="49" to="59"/>
+      <aspectTerm term="Micro USB port" polarity="neutral" from="129" to="143"/>
+      <aspectTerm term="cap" polarity="neutral" from="163" to="166"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:20">
+    <text>If you do these two things, you don't have to worry about your Galaxy S5 being near water.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:21">
+    <text>Most complaints about the Galaxy S5 rise from its technical specifications.</text>
+    <aspectTerms>
+      <aspectTerm term="technical specifications" polarity="negative" from="50" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:22">
+    <text>A lot of people awaited the next big step from Samsung but the South Korean based company decided to stick with the present.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:23">
+    <text>The Galaxy S5 is powered by the Snapdragon 801 chipset with a Krait 400 Quad-Core CPU clocked at 2.5GHz and an Adreno 330 GPU.</text>
+    <aspectTerms>
+      <aspectTerm term="Snapdragon 801 chipset" polarity="neutral" from="32" to="54"/>
+      <aspectTerm term="Krait 400 Quad-Core CPU clocked at 2.5GHz" polarity="neutral" from="62" to="103"/>
+      <aspectTerm term="Adreno 330 GPU" polarity="neutral" from="111" to="125"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:24">
+    <text>RAM: 2 GB Storage: 16/32 GB expandable up to 128 GB via microSD, Display: Gorilla Glass 3, Super AMOLED 1080p, 432 ppi.</text>
+    <aspectTerms>
+      <aspectTerm term="RAM" polarity="neutral" from="0" to="3"/>
+      <aspectTerm term="Storage" polarity="neutral" from="10" to="17"/>
+      <aspectTerm term="Display" polarity="neutral" from="65" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:25">
+    <text>In our opinion, Samsung Galaxy S5's battery is one of its greatest selling points.</text>
+    <aspectTerms>
+      <aspectTerm term="battery" polarity="positive" from="36" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:26">
+    <text>With a 2800 mAh Li-Po battery, the device lasted up to two days at full brightness levels, GPS, cellular data and Wi-Fi on, it lasted up to two days before we had to recharge it.</text>
+    <aspectTerms>
+      <aspectTerm term="2800 mAh Li-Po battery" polarity="neutral" from="7" to="29"/>
+      <aspectTerm term="full brightness levels" polarity="neutral" from="67" to="89"/>
+      <aspectTerm term="GPS" polarity="neutral" from="91" to="94"/>
+      <aspectTerm term="cellular data" polarity="neutral" from="96" to="109"/>
+      <aspectTerm term="Wi-Fi" polarity="neutral" from="114" to="119"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:27">
+    <text>This is more than satisfying.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:28">
+    <text>Samsung Galaxy S5 supports all 3G/4G LTE networks.</text>
+    <aspectTerms>
+      <aspectTerm term="3G/4G LTE networks" polarity="neutral" from="31" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:29">
+    <text>One of the most disappointing things about the Galaxy S5 is its fingerprint sensor.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint sensor" polarity="negative" from="64" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:30">
+    <text>It may have been approved by Paypal for quick transactions, it may be able to recognize different fingers and comes with several functions but it is still a useless feature, at least in our opinion.</text>
+    <aspectTerms>
+      <aspectTerm term="quick transactions" polarity="neutral" from="40" to="58"/>
+      <aspectTerm term="feature" polarity="negative" from="165" to="172"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:31">
+    <text>The Galaxy S5 ships with Android 4.4.2 but it has been customized to a big extent by Samsung.</text>
+    <aspectTerms>
+      <aspectTerm term="Android 4.4.2" polarity="neutral" from="25" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:32">
+    <text>The Magazine UI, as Samsung calls it, is muffled with a lot of features and apps like the S Health, S Voice, Gestures, Emergency mode and Baby Cry recognition.</text>
+    <aspectTerms>
+      <aspectTerm term="Magazine UI" polarity="negative" from="4" to="15"/>
+      <aspectTerm term="features" polarity="negative" from="63" to="71"/>
+      <aspectTerm term="apps" polarity="negative" from="76" to="80"/>
+      <aspectTerm term="S Health" polarity="negative" from="90" to="98"/>
+      <aspectTerm term="S Voice" polarity="negative" from="100" to="107"/>
+      <aspectTerm term="Gestures" polarity="negative" from="109" to="117"/>
+      <aspectTerm term="Emergency mode" polarity="negative" from="119" to="133"/>
+      <aspectTerm term="Baby Cry recognition" polarity="negative" from="138" to="158"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:33">
+    <text>All these are welcome but they fill up the device and the user, draining power from the phone for no reason.</text>
+    <aspectTerms>
+      <aspectTerm term="power" polarity="neutral" from="73" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:34">
+    <text>Another disappointing feature of the smartphone is the "My Magazine" app which shows media from your favorite websites and social media, not only fails to load sometimes but it is slow overall.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="negative" from="22" to="29"/>
+      <aspectTerm term="&quot;My Magazine&quot; app" polarity="negative" from="55" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:35">
+    <text>One of the most useful features of the device though is the Ultra Saving Mode which changes your screen to black and white and shuts down all unnecessary features to dramatically minimize battery consumption.</text>
+    <aspectTerms>
+      <aspectTerm term="Ultra Saving Mode" polarity="positive" from="60" to="77"/>
+      <aspectTerm term="screen" polarity="positive" from="97" to="103"/>
+      <aspectTerm term="battery consumption" polarity="positive" from="188" to="207"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:36">
+    <text>What we love about the Samsung Galaxy S5 more than anything else is its display which is probably one of the best smartphone displays we've ever seen with incredible brightness, realistic and vivid colors and excellent viewing angles.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="72" to="79"/>
+      <aspectTerm term="displays" polarity="positive" from="125" to="133"/>
+      <aspectTerm term="brightness" polarity="positive" from="166" to="176"/>
+      <aspectTerm term="colors" polarity="positive" from="198" to="204"/>
+      <aspectTerm term="viewing angles" polarity="positive" from="219" to="233"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:37">
+    <text>If you were waiting for a 2K display, Samsung will certainly impress you with this 1080p AMOLED display for sure.</text>
+    <aspectTerms>
+      <aspectTerm term="2K display" polarity="positive" from="26" to="36"/>
+      <aspectTerm term="1080p AMOLED display" polarity="positive" from="83" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:38">
+    <text>Last but not least, we left the best part about Galaxy S5 for the end of this video.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:39">
+    <text>The Samsung Galaxy S5's camera is one of the most delightful things about the device.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="24" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:40">
+    <text>Its technologically unique and advanced BSI sensor is capable of offering an extreme performance when it comes to photos and videos.</text>
+    <aspectTerms>
+      <aspectTerm term="BSI sensor" polarity="positive" from="40" to="50"/>
+      <aspectTerm term="performance" polarity="positive" from="85" to="96"/>
+      <aspectTerm term="photos" polarity="positive" from="114" to="120"/>
+      <aspectTerm term="videos" polarity="positive" from="125" to="131"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:41">
+    <text>Photo capturing with a resolution of 5312 x 2988 pixels, 4K video, 1080p video at 60FPS, 720p video at 120FPS are enough to render you speechless.</text>
+    <aspectTerms>
+      <aspectTerm term="Photo capturing" polarity="positive" from="0" to="15"/>
+      <aspectTerm term="resolution of 5312 x 2988 pixels" polarity="positive" from="23" to="55"/>
+      <aspectTerm term="4K video" polarity="positive" from="57" to="65"/>
+      <aspectTerm term="1080p video at 60FPS" polarity="positive" from="67" to="87"/>
+      <aspectTerm term="720p video at 120FPS" polarity="positive" from="89" to="109"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:42">
+    <text>There are several more functions of the Galaxy S5's camera that no one can describe better than the samples we have prepared for you.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="neutral" from="52" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:43">
+    <text>Enjoy.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:44">
+    <text>The Samsung Galaxy S5 is available now for 749, no one can hide the fact that the Galaxy S5 is asking for a lot of money and it is targeted at a specific audience, especially in a country like Greece.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:45">
+    <text>We  have mentioned in the past that the pricing of high-end smartphones like the Galaxy S5 is inordinate.</text>
+    <aspectTerms>
+      <aspectTerm term="pricing" polarity="negative" from="40" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:46">
+    <text>599 sound like a better deal although we did expect to see a lot less by Samsung's new flagship device but instead we got a premium experience.</text>
+    <aspectTerms>
+      <aspectTerm term="experience" polarity="positive" from="132" to="142"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:47">
+    <text>Samsung's biggest mistake is the creation of a big hype around the Samsung Galaxy S5 being a revolutionary smartphone.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:48">
+    <text>It  may not fit to that description and some people may still be moaning about its price or its technical specifications but Samsung has one of the most capable smartphones on the market right now.</text>
+    <aspectTerms>
+      <aspectTerm term="price" polarity="conflict" from="83" to="88"/>
+      <aspectTerm term="technical specifications" polarity="conflict" from="96" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="nayKYv_7b6M:49">
+    <text>Stay tuned to Unboxholics for our upcoming in-depth review of Samsung Gear Neo 2.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:50">
+    <text>That's all for today's episode.</text>
+  </sentence>
+  <sentence id="nayKYv_7b6M:51">
+    <text>See you soon unboxers!</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:0">
+    <text>Hey what's up everybody, this is Dom!</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:1">
+    <text>Today we are comparing the Galaxy S5 to the iPhone 5S.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:2">
+    <text>Now, I realize these are two completely different devices and it's kinda like comparing apples to oranges, but I thought we would compare the two and see how they differ.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:3">
+    <text>So, one thing you may have noticed already is the size.</text>
+    <aspectTerms>
+      <aspectTerm term="size" polarity="neutral" from="50" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:4">
+    <text>Obviously, the Galaxy S five is way bigger than the iPhone 5S.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:5">
+    <text>It's rocking a 5.1 inch display and the iPhone 5S only has a 4-inch display, so that's definitely going to be a huge difference there.</text>
+    <aspectTerms>
+      <aspectTerm term="5.1 inch display" polarity="positive" from="15" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:6">
+    <text>But on the top side of the devices, as you can see we have a headphone jack, an infrared blaster and a microphone on the S5, where we just have a lock button on the iPhone 5S.</text>
+    <aspectTerms>
+      <aspectTerm term="headphone jack" polarity="neutral" from="61" to="75"/>
+      <aspectTerm term="infrared blaster" polarity="neutral" from="80" to="96"/>
+      <aspectTerm term="microphone" polarity="neutral" from="103" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:7">
+    <text>Taking a look at the side of the devices, as you can see, the iPhone 5S has a SIM card slot whereas the Galaxy S5 just has a lock button.</text>
+    <aspectTerms>
+      <aspectTerm term="side" polarity="neutral" from="21" to="25"/>
+      <aspectTerm term="lock button" polarity="neutral" from="125" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:8">
+    <text>The SIM card slot for the S5 is under its back panel.</text>
+    <aspectTerms>
+      <aspectTerm term="SIM card slot" polarity="neutral" from="4" to="17"/>
+      <aspectTerm term="back panel" polarity="neutral" from="42" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:9">
+    <text>Now, taking a look at the bottom of the devices, here's where things get a little bit different.</text>
+    <aspectTerms>
+      <aspectTerm term="bottom" polarity="neutral" from="26" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:10">
+    <text>We have a speaker and microphone on the 5S, a lightning port and a headphone jack.</text>
+    <aspectTerms>
+      <aspectTerm term="speaker" polarity="neutral" from="10" to="17"/>
+      <aspectTerm term="microphone" polarity="neutral" from="22" to="32"/>
+      <aspectTerm term="lightning port" polarity="neutral" from="46" to="60"/>
+      <aspectTerm term="headphone jack" polarity="neutral" from="67" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:11">
+    <text>The Galaxy S5 has just one USB 3.0 charging and sync port.</text>
+    <aspectTerms>
+      <aspectTerm term="USB 3.0 charging and sync port" polarity="neutral" from="27" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:12">
+    <text>Moving on to the other side, as you can see both devices have volume controls, but the iPhone 5s does have a mute switch on the side as well.</text>
+    <aspectTerms>
+      <aspectTerm term="side" polarity="neutral" from="23" to="27"/>
+      <aspectTerm term="volume controls" polarity="neutral" from="62" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:13">
+    <text>One feature that both these devices do have in common is a fingerprint scanner that's built around the home button.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="neutral" from="4" to="11"/>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="59" to="78"/>
+      <aspectTerm term="home button" polarity="neutral" from="103" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:14">
+    <text>Now, the iPhone 5s is a bit easier only requiring you to rest your finger on the sensor in order to activate it, whereas the Galaxy S5 actually makes you swipe across the home button to use it, but it does allow you make mobile payments using Pay Pal.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="171" to="182"/>
+      <aspectTerm term="mobile payments" polarity="neutral" from="221" to="236"/>
+      <aspectTerm term="Pay Pal" polarity="neutral" from="243" to="250"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:15">
+    <text>Like I said, you do have to swipe your finger across this in order to set it up and whenever you would like to use it and you've got to be pretty precise with your swipes.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:16">
+    <text>If you don't do it exactly the same, it's gonna give you a little error and tell you to do it again, but it was fairly accurate in my testing.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:17">
+    <text>Though I think it's a lot easier and smoother on the iPhone 5S with touch ID.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:18">
+    <text>Taking a look at the back side of these devices the S5 overalls the 8-megapixel camera found on the iPhone 5S, with a 16 megapixel camera that is capable of shooting 4K videos at 30 frames per second.</text>
+    <aspectTerms>
+      <aspectTerm term="back side" polarity="neutral" from="21" to="30"/>
+      <aspectTerm term="16 megapixel camera" polarity="neutral" from="118" to="137"/>
+      <aspectTerm term="4K videos at 30 frames per second" polarity="neutral" from="166" to="199"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:19">
+    <text>And yeah, there's also a heart rate sensor in case you cared about that for some reason.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate sensor" polarity="negative" from="25" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:20">
+    <text>I don't find it to be that big of a deal, but it could be helpful for people that are into that kind of lifestyle that really need to check their heart rate every once in a while and want that feature on the back in their phones.</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="neutral" from="193" to="200"/>
+      <aspectTerm term="back" polarity="neutral" from="208" to="212"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:21">
+    <text>So, props to Samsung for adding that into the Galaxy S5.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:22">
+    <text>On the front side both devices do have front facing cameras and the appropriate sensors, but that's just about all you'll find here.</text>
+    <aspectTerms>
+      <aspectTerm term="front side" polarity="neutral" from="7" to="17"/>
+      <aspectTerm term="front facing cameras" polarity="neutral" from="39" to="59"/>
+      <aspectTerm term="sensors" polarity="neutral" from="80" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:23">
+    <text>One last thing I wanted to take a look at is this accessory.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:24">
+    <text>It's actually a back plate for the Galaxy S5 that will enable wireless charging on the S5.</text>
+    <aspectTerms>
+      <aspectTerm term="back plate" polarity="neutral" from="16" to="26"/>
+      <aspectTerm term="wireless charging" polarity="neutral" from="62" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:25">
+    <text>So, you have to purchase the back plate and then you can purchase the wireless charging pad from Samsung and be able to wirelessly charge or device just by setting it on the pad.</text>
+    <aspectTerms>
+      <aspectTerm term="back plate" polarity="neutral" from="29" to="39"/>
+      <aspectTerm term="wireless charging pad" polarity="neutral" from="70" to="91"/>
+      <aspectTerm term="pad" polarity="neutral" from="174" to="177"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1dvzHyHID0k:26">
+    <text>Obviously, this is going to cost you extra, but it's something that the iPhone is not currently capable of in its native form.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:27">
+    <text>Now, just for kicks I just wanted to give you guys this comparison shot of the S5, the S4, the Moto X and the iPhone 5S just so you get an idea on exactly how big the Galaxy S5 is, if you've seen any of the other three devices.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:28">
+    <text>So, I hope you guys enjoy this video and if you did be sure to hit that thumbs up button as it does help out the channel a lot.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:29">
+    <text>And be sure to subscribe for more Galaxy S5 content in the future.</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:30">
+    <text>Thanks again for watching everybody, I really appreciate it</text>
+  </sentence>
+  <sentence id="1dvzHyHID0k:31">
+    <text>This is Dom and have a great day.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:0">
+    <text>Hey guys and welcome to Btekt, it's Basil here with the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:1">
+    <text>We've reviewed the Sony Xperia Z2, we've reviewed HTC's One M8, we've got two premium phones in them.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:2">
+    <text>The Samsung Galaxy S5 is premium on paper it has got great spec and of course, a very powerful processor, not to mention a heart rate monitor on the flip side, a fingerprint scanner below the base and it's the only phone to feature a USB 3.0 port.</text>
+    <aspectTerms>
+      <aspectTerm term="spec" polarity="positive" from="59" to="63"/>
+      <aspectTerm term="processor" polarity="positive" from="95" to="104"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="123" to="141"/>
+      <aspectTerm term="flip side" polarity="neutral" from="149" to="158"/>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="162" to="181"/>
+      <aspectTerm term="base" polarity="neutral" from="192" to="196"/>
+      <aspectTerm term="USB 3.0 port" polarity="positive" from="234" to="246"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:3">
+    <text>It's also one of the last phones to feature a removable back cover giving you the ability to swap out the battery.</text>
+    <aspectTerms>
+      <aspectTerm term="removable back cover" polarity="positive" from="46" to="66"/>
+      <aspectTerm term="battery" polarity="neutral" from="106" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:4">
+    <text>There's a lot to love about the Samsung Galaxy S5 from the offset, but is it as good as the competition?</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:5">
+    <text>And would we recommend one?</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:6">
+    <text>Design We have a white and black Samsung Galaxy S5 with us, and it makes sense that we bring the black one right into frame so we can also bring a black Samsung Galaxy S4, thereby comparing the two.</text>
+    <aspectTerms>
+      <aspectTerm term="Design" polarity="neutral" from="0" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:7">
+    <text>The first thing we notice is that the back cover is way less glossy.</text>
+    <aspectTerms>
+      <aspectTerm term="back cover" polarity="neutral" from="38" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:8">
+    <text>On the Samsung Galaxy S5 it's completely matte and features a dotted pattern, which feels richer in the hand.</text>
+    <aspectTerms>
+      <aspectTerm term="dotted pattern" polarity="positive" from="62" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:9">
+    <text>It has also got flatter sides than the Galaxy S4.</text>
+    <aspectTerms>
+      <aspectTerm term="sides" polarity="neutral" from="24" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:10">
+    <text>It's bigger too, mainly that's down to the waterproofing, but it's significantly bigger.</text>
+    <aspectTerms>
+      <aspectTerm term="waterproofing" polarity="neutral" from="43" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:11">
+    <text>You've got quite a lot more Samsung Galaxy S5 than you do Samsung Galaxy S4, despite the screen only being 0.1 inches bigger.</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="neutral" from="89" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:12">
+    <text>You'll also notice the lack of a heart rate monitor on the Galaxy S4.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="33" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:13">
+    <text>From the front, the Galaxy S4 and Galaxy S5 are a little more similar.</text>
+    <aspectTerms>
+      <aspectTerm term="front" polarity="neutral" from="9" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:14">
+    <text>You can't mistake the Samsung Galaxy S5 as a device from a different lineup.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:15">
+    <text>Turn them around though, and the Galaxy S5 is the more interesting of the two.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:16">
+    <text>The Galaxy S5 is available in a range of colours.</text>
+    <aspectTerms>
+      <aspectTerm term="colours" polarity="neutral" from="41" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:17">
+    <text>We've got the white and black version, although there's also a blue, brown and gold version available for sale.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:18">
+    <text>We've got to say we're quite big fans of the white Galaxy S5 however.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:19">
+    <text>On the right hand side of the Samsung Galaxy S5, you'll find the power button, while on the base you'll see the new-look micro USB 3.0 port.</text>
+    <aspectTerms>
+      <aspectTerm term="right hand side" polarity="neutral" from="7" to="22"/>
+      <aspectTerm term="power button" polarity="neutral" from="65" to="77"/>
+      <aspectTerm term="base" polarity="neutral" from="92" to="96"/>
+      <aspectTerm term="new-look micro USB 3.0 port" polarity="neutral" from="112" to="139"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:20">
+    <text>The port is covered by a flap, which has been put there simply to ensure the phone is water and dust resistant.</text>
+    <aspectTerms>
+      <aspectTerm term="port" polarity="neutral" from="4" to="8"/>
+      <aspectTerm term="flap" polarity="neutral" from="25" to="29"/>
+      <aspectTerm term="water and dust resistant" polarity="neutral" from="86" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:21">
+    <text>On the left hand side there is the volume rocker, while at the top you have your 3.5mm headphone jack and an IR blaster.</text>
+    <aspectTerms>
+      <aspectTerm term="left hand side" polarity="neutral" from="7" to="21"/>
+      <aspectTerm term="volume rocker" polarity="neutral" from="35" to="48"/>
+      <aspectTerm term="top" polarity="neutral" from="63" to="66"/>
+      <aspectTerm term="3.5mm headphone jack" polarity="neutral" from="81" to="101"/>
+      <aspectTerm term="IR blaster" polarity="neutral" from="109" to="119"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:22">
+    <text>On the back there's the 16MP ISOCELL camera and a heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="back" polarity="neutral" from="7" to="11"/>
+      <aspectTerm term="16MP ISOCELL camera" polarity="neutral" from="24" to="43"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="50" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:23">
+    <text>As for the size of the Galaxy S5, Samsung's latest flagship fares pretty well.</text>
+    <aspectTerms>
+      <aspectTerm term="size" polarity="positive" from="11" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:24">
+    <text>Up against the HTC One M8, the Galaxy S5 manages to come out looking smaller, despite the larger screen.</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="neutral" from="97" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:25">
+    <text>The metal HTC One M8 is also heavier than the S5, although it does feel more premium and has HTC's BoomSound speakers, which produce much better sound than the speakers on the Galaxy S5.</text>
+    <aspectTerms>
+      <aspectTerm term="sound" polarity="negative" from="145" to="150"/>
+      <aspectTerm term="speakers" polarity="negative" from="160" to="168"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:26">
+    <text>The Sony Xperia Z2 even manages to be significantly larger than the Galaxy S5.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:27">
+    <text>Making Samsung's smartphone the most manageable Android flagship of 2014 so far.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:28">
+    <text>The glass front and back of the Sony Xperia Z2 does however make the phone feel a little bit more premium than Samsung's offering.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:29">
+    <text>Against the iPhone 5s however the Samsung Galaxy S5 is a giant.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:30">
+    <text>That's mainly due to the tiny screen on the iPhone.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:31">
+    <text>Display Samsung has equipped the Galaxy S5 with a display that can only be described as "great".</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="50" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:32">
+    <text>Super AMOLED, full HD, 5.1 inches, on paper it looks virtually identical to its predecessor.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:33">
+    <text>Bringing it closer into frame and you can see you've also got those really nice, punchy colours, deep dark blacks as well.</text>
+    <aspectTerms>
+      <aspectTerm term="colours" polarity="positive" from="88" to="95"/>
+      <aspectTerm term="blacks" polarity="positive" from="107" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:34">
+    <text>In the menus for example you can make out very deep blacks.</text>
+    <aspectTerms>
+      <aspectTerm term="menus" polarity="neutral" from="7" to="12"/>
+      <aspectTerm term="blacks" polarity="neutral" from="52" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:35">
+    <text>There are some improvements over its predecessor however, especially when it comes to brightness control.</text>
+    <aspectTerms>
+      <aspectTerm term="brightness control" polarity="positive" from="86" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:36">
+    <text>If you pull down the brightness control all the way, you won't be able to see what's on the screen at all, and that's perfect.</text>
+    <aspectTerms>
+      <aspectTerm term="brightness control" polarity="positive" from="21" to="39"/>
+      <aspectTerm term="screen" polarity="positive" from="92" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:37">
+    <text>The reason it's perfect is because when reading the display at night it's much more comfortable than any other phone we've ever used.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="52" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:38">
+    <text>You've also got the ability to control the way that the screen displays content, so if we jump into screen mode you can see you've got "adapt display", "dynamic", "standard", "professional photo" or "cinema".</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="neutral" from="56" to="62"/>
+      <aspectTerm term="screen mode" polarity="neutral" from="100" to="111"/>
+      <aspectTerm term="adapt display" polarity="neutral" from="136" to="149"/>
+      <aspectTerm term="dynamic" polarity="neutral" from="153" to="160"/>
+      <aspectTerm term="standard" polarity="neutral" from="164" to="172"/>
+      <aspectTerm term="professional photo" polarity="neutral" from="176" to="194"/>
+      <aspectTerm term="cinema" polarity="neutral" from="200" to="206"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:39">
+    <text>If you leave it on adapt display the phone is actually going to cater for whatever application you open, whether it's Google Play Books, or the gallery, or the camera.</text>
+    <aspectTerms>
+      <aspectTerm term="adapt display" polarity="neutral" from="19" to="32"/>
+      <aspectTerm term="application" polarity="neutral" from="83" to="94"/>
+      <aspectTerm term="Google Play Books" polarity="neutral" from="118" to="135"/>
+      <aspectTerm term="gallery" polarity="neutral" from="144" to="151"/>
+      <aspectTerm term="camera" polarity="neutral" from="160" to="166"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:40">
+    <text>This actually does a really good job of tapering colours.</text>
+    <aspectTerms>
+      <aspectTerm term="tapering colours" polarity="positive" from="40" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:41">
+    <text>AMOLEDs have habitually over saturated colours to a zealous level, they really look almost neon.</text>
+    <aspectTerms>
+      <aspectTerm term="AMOLEDs" polarity="negative" from="0" to="7"/>
+      <aspectTerm term="colours" polarity="negative" from="39" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:42">
+    <text>They're so so over the top, but the Galaxy S5 is actually probably the most tapered AMOLED we've used to date.</text>
+    <aspectTerms>
+      <aspectTerm term="AMOLED" polarity="positive" from="84" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:43">
+    <text>Comparing the Galaxy S5 against its competitors and you'll see that both Sony and HTC's flagship phones turned out a lot punchier.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:44">
+    <text>The Galaxy S5 on the other hand made colours look a lot more true-to-life and much more pleasing to the eye.</text>
+    <aspectTerms>
+      <aspectTerm term="colours" polarity="positive" from="37" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:45">
+    <text>The Galaxy S5's display also offers fantastic viewing angles beating out the competition.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="16" to="23"/>
+      <aspectTerm term="viewing angles" polarity="positive" from="46" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:46">
+    <text>The Samsung Galaxy S5 manages to carry out a balancing act.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:47">
+    <text>You get super vibrant and saturated colours through the UI, which is exactly where you want them, as well as in games.</text>
+    <aspectTerms>
+      <aspectTerm term="colours" polarity="positive" from="36" to="43"/>
+      <aspectTerm term="UI" polarity="positive" from="56" to="58"/>
+      <aspectTerm term="games" polarity="positive" from="112" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:48">
+    <text>When you get to the gallery however the colours are a lot more tapered.</text>
+    <aspectTerms>
+      <aspectTerm term="gallery" polarity="neutral" from="20" to="27"/>
+      <aspectTerm term="colours" polarity="negative" from="40" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:49">
+    <text>Whites aren't as accurate as on the HTC One M8, and there's no white balance control like on the Sony Xperia Z2, but that's pretty much the only area where we saw Samsung's smartphone fall behind.</text>
+    <aspectTerms>
+      <aspectTerm term="Whites" polarity="negative" from="0" to="6"/>
+      <aspectTerm term="white balance control" polarity="negative" from="63" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:50">
+    <text>UI The Galaxy S5 utilises Samsung's latest TouchWiz Magazine UI over the top of Android 4.2.2, the latest version of Android.</text>
+    <aspectTerms>
+      <aspectTerm term="UI" polarity="neutral" from="0" to="2"/>
+      <aspectTerm term="TouchWiz Magazine UI" polarity="neutral" from="43" to="63"/>
+      <aspectTerm term="Android 4.2.2" polarity="neutral" from="80" to="93"/>
+      <aspectTerm term="Android" polarity="neutral" from="117" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:51">
+    <text>Out of the box you'll get three home screens by default, with the option to add more home screens by pinching outwards.</text>
+    <aspectTerms>
+      <aspectTerm term="home screens" polarity="neutral" from="32" to="44"/>
+      <aspectTerm term="home screens" polarity="neutral" from="85" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:52">
+    <text>You'll also see some of the default widgets as soon as you boot up the phone.</text>
+    <aspectTerms>
+      <aspectTerm term="default widgets" polarity="neutral" from="28" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:53">
+    <text>The first widget you'll see is the weather and clock widget, underneath that you'll see Google's search widget.</text>
+    <aspectTerms>
+      <aspectTerm term="widget" polarity="neutral" from="10" to="16"/>
+      <aspectTerm term="weather and clock widget" polarity="neutral" from="35" to="59"/>
+      <aspectTerm term="Google's search widget" polarity="neutral" from="88" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:54">
+    <text>Google's search works right from the home screen using voice commands, that means you can just say "OK Google" direct from your home screen and launch a search straight away.</text>
+    <aspectTerms>
+      <aspectTerm term="Google's search" polarity="neutral" from="0" to="15"/>
+      <aspectTerm term="home screen" polarity="neutral" from="37" to="48"/>
+      <aspectTerm term="voice commands" polarity="neutral" from="55" to="69"/>
+      <aspectTerm term="home screen" polarity="neutral" from="128" to="139"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:55">
+    <text>Below that you'll see some app shortcuts, out of the box you'll be offered email, camera, Play Store, and a Google Apps folder.</text>
+    <aspectTerms>
+      <aspectTerm term="app shortcuts" polarity="neutral" from="27" to="40"/>
+      <aspectTerm term="email" polarity="neutral" from="75" to="80"/>
+      <aspectTerm term="camera" polarity="neutral" from="82" to="88"/>
+      <aspectTerm term="Play Store" polarity="neutral" from="90" to="100"/>
+      <aspectTerm term="Google Apps folder" polarity="neutral" from="108" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:56">
+    <text>Rather niftily, Samsung gives you the ability to further customise folders by changing the colours.</text>
+    <aspectTerms>
+      <aspectTerm term="folders" polarity="positive" from="67" to="74"/>
+      <aspectTerm term="colours" polarity="neutral" from="91" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:57">
+    <text>Swiping across, the second home screen will have a widget for S Health and Geo News.</text>
+    <aspectTerms>
+      <aspectTerm term="second home screen" polarity="neutral" from="20" to="38"/>
+      <aspectTerm term="widget for S Health and Geo News" polarity="neutral" from="51" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:58">
+    <text>S Health has become a staple on Samsung's flagship phones offering loads of health-related features such as speedometer, and on the Galaxy S5 a heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="S Health" polarity="positive" from="0" to="8"/>
+      <aspectTerm term="health-related features" polarity="positive" from="76" to="99"/>
+      <aspectTerm term="speedometer" polarity="neutral" from="108" to="119"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="144" to="162"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:59">
+    <text>Geo News is a relatively new function, offering you hyperlocal news.</text>
+    <aspectTerms>
+      <aspectTerm term="Geo News" polarity="neutral" from="0" to="8"/>
+      <aspectTerm term="function" polarity="neutral" from="29" to="37"/>
+      <aspectTerm term="hyperlocal news" polarity="neutral" from="52" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:60">
+    <text>Geo News will actually inform you of any local flooding or tremors.</text>
+    <aspectTerms>
+      <aspectTerm term="Geo News" polarity="positive" from="0" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:61">
+    <text>Underneath those widgets you'll see two app icons, one for Kids Mode and one for Gallery.</text>
+    <aspectTerms>
+      <aspectTerm term="widgets" polarity="neutral" from="17" to="24"/>
+      <aspectTerm term="app icons" polarity="neutral" from="40" to="49"/>
+      <aspectTerm term="Kids Mode" polarity="neutral" from="59" to="68"/>
+      <aspectTerm term="Gallery" polarity="neutral" from="81" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:62">
+    <text>Rather bizarrely, despite showcasing on the home screen Kids Mode isn't preinstalled on the Samsung Galaxy S5.</text>
+    <aspectTerms>
+      <aspectTerm term="home screen" polarity="neutral" from="44" to="55"/>
+      <aspectTerm term="Kids Mode" polarity="negative" from="56" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:63">
+    <text>If you want to use it you'll be required to download it.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:64">
+    <text>This isn't the only app that requires a download before use, despite there being icons for them.</text>
+    <aspectTerms>
+      <aspectTerm term="app" polarity="negative" from="20" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:65">
+    <text>On the third home screen there are widgets for Galaxy Essentials and Galaxy Gifts.</text>
+    <aspectTerms>
+      <aspectTerm term="third home screen" polarity="neutral" from="7" to="24"/>
+      <aspectTerm term="widgets" polarity="neutral" from="35" to="42"/>
+      <aspectTerm term="Galaxy Essentials" polarity="neutral" from="47" to="64"/>
+      <aspectTerm term="Galaxy Gifts" polarity="neutral" from="69" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:66">
+    <text>Galaxy Essentials gives you the ability to choose whether or not you want to download some of the Samsung apps that are suggested, but not preinstalled, like Kids Mode.</text>
+    <aspectTerms>
+      <aspectTerm term="Galaxy Essentials" polarity="neutral" from="0" to="17"/>
+      <aspectTerm term="Samsung apps" polarity="neutral" from="98" to="110"/>
+      <aspectTerm term="Kids Mode" polarity="neutral" from="158" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:67">
+    <text>Galaxy Gifts on the other hand offers up a world of promotional offers exclusive for your phone, such as free music streaming or access to free Amazon Kindle books.</text>
+    <aspectTerms>
+      <aspectTerm term="Galaxy Gifts" polarity="neutral" from="0" to="12"/>
+      <aspectTerm term="promotional offers" polarity="positive" from="52" to="70"/>
+      <aspectTerm term="music streaming" polarity="positive" from="110" to="125"/>
+      <aspectTerm term="Amazon Kindle books" polarity="positive" from="144" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:68">
+    <text>Swipe across to the left of your home screens and you'll see Samsung's My Magazine.</text>
+    <aspectTerms>
+      <aspectTerm term="home screens" polarity="neutral" from="33" to="45"/>
+      <aspectTerm term="Samsung's My Magazine" polarity="neutral" from="61" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:69">
+    <text>The app is powered by Flipboard, although you'll notice that you're unable to choose Facebook integration -- despite there being options for Google+ and Twitter.</text>
+    <aspectTerms>
+      <aspectTerm term="app" polarity="neutral" from="4" to="7"/>
+      <aspectTerm term="Flipboard" polarity="neutral" from="22" to="31"/>
+      <aspectTerm term="Facebook integration" polarity="negative" from="85" to="105"/>
+      <aspectTerm term="Google+" polarity="neutral" from="141" to="148"/>
+      <aspectTerm term="Twitter" polarity="neutral" from="153" to="160"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:70">
+    <text>Thankfully Samsung does give you the option to disable My Magazine, since we found it to be quite clunky especially as a newsreader.</text>
+    <aspectTerms>
+      <aspectTerm term="My Magazine" polarity="negative" from="55" to="66"/>
+      <aspectTerm term="newsreader" polarity="negative" from="121" to="131"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:71">
+    <text>There are better newsreaders to be had on the Google Play Store that are standalone apps, rather than built-in to the OS.</text>
+    <aspectTerms>
+      <aspectTerm term="newsreaders" polarity="positive" from="17" to="28"/>
+      <aspectTerm term="Google Play Store" polarity="neutral" from="46" to="63"/>
+      <aspectTerm term="OS" polarity="neutral" from="118" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:72">
+    <text>Unlike on other operating systems like iOS, Samsung has given folders their own space.</text>
+    <aspectTerms>
+      <aspectTerm term="folders" polarity="neutral" from="62" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:73">
+    <text>You can't actually let apps and folders coexist, meaning you'll potentially have more home screens than you'd like.</text>
+    <aspectTerms>
+      <aspectTerm term="apps" polarity="neutral" from="23" to="27"/>
+      <aspectTerm term="folders" polarity="neutral" from="32" to="39"/>
+      <aspectTerm term="home screens" polarity="negative" from="86" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:74">
+    <text>Pull down from the top you have notifications, brightness toggles, S Finder, Quick Connect and some quick toggles, which can be expanded upon or just simply pulled down by default with a two finger swipe.</text>
+    <aspectTerms>
+      <aspectTerm term="notifications" polarity="neutral" from="32" to="45"/>
+      <aspectTerm term="brightness toggles" polarity="neutral" from="47" to="65"/>
+      <aspectTerm term="S Finder" polarity="neutral" from="67" to="75"/>
+      <aspectTerm term="Quick Connect" polarity="neutral" from="77" to="90"/>
+      <aspectTerm term="quick toggles" polarity="neutral" from="100" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:75">
+    <text>Quick Connect allows you to connect to other devices in the immediate area via Bluetooth or WiFi Direct.</text>
+    <aspectTerms>
+      <aspectTerm term="Quick Connect" polarity="neutral" from="0" to="13"/>
+      <aspectTerm term="Bluetooth" polarity="neutral" from="79" to="88"/>
+      <aspectTerm term="WiFi Direct" polarity="neutral" from="92" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:76">
+    <text>If you have a Bluetooth headset and want to connect it, but not entirely sure how Bluetooth works, Quick Connect is much easier to go through than the Bluetooth menu.</text>
+    <aspectTerms>
+      <aspectTerm term="Bluetooth headset" polarity="neutral" from="14" to="31"/>
+      <aspectTerm term="Bluetooth" polarity="neutral" from="82" to="91"/>
+      <aspectTerm term="Quick Connect" polarity="positive" from="99" to="112"/>
+      <aspectTerm term="Bluetooth menu" polarity="neutral" from="151" to="165"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:77">
+    <text>S Finder will search your entire phone for whatever you type.</text>
+    <aspectTerms>
+      <aspectTerm term="S Finder" polarity="neutral" from="0" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:78">
+    <text>If you search "Samsung", you'll get a search back for applications, music files, settings and web history.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:79">
+    <text>In the quick toggle menu you'll notice two rather new items listed.</text>
+    <aspectTerms>
+      <aspectTerm term="quick toggle menu" polarity="neutral" from="7" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:80">
+    <text>One of them is download booster, while the other is toolbox.</text>
+    <aspectTerms>
+      <aspectTerm term="download booster" polarity="neutral" from="15" to="31"/>
+      <aspectTerm term="toolbox" polarity="neutral" from="52" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:81">
+    <text>Download booster when activated will boost your download speeds by using WiFi connectivity and your data network speed, whether it be 3G or 4G, together to give you a significant speed boost.</text>
+    <aspectTerms>
+      <aspectTerm term="Download booster" polarity="neutral" from="0" to="16"/>
+      <aspectTerm term="download speeds" polarity="neutral" from="48" to="63"/>
+      <aspectTerm term="WiFi connectivity" polarity="neutral" from="73" to="90"/>
+      <aspectTerm term="data network speed" polarity="neutral" from="100" to="118"/>
+      <aspectTerm term="3G" polarity="neutral" from="134" to="136"/>
+      <aspectTerm term="4G" polarity="neutral" from="140" to="142"/>
+      <aspectTerm term="speed boost" polarity="positive" from="179" to="190"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:82">
+    <text>Toolbox on the other hand is a lot like Facebook's Chat Heads.</text>
+    <aspectTerms>
+      <aspectTerm term="Toolbox" polarity="neutral" from="0" to="7"/>
+      <aspectTerm term="Facebook's Chat Heads" polarity="neutral" from="40" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:83">
+    <text>You'll be given a white orb that you can place anywhere on the screen.</text>
+    <aspectTerms>
+      <aspectTerm term="screen" polarity="neutral" from="63" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:84">
+    <text>Tapping the white button will give you quick shortcuts to a plethora of applications which you can customise.</text>
+    <aspectTerms>
+      <aspectTerm term="quick shortcuts to a plethora of applications" polarity="neutral" from="39" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:85">
+    <text>If you want to quickly launch Facebook or Camera from anywhere in the UI, this could be the quickest way of doing it.</text>
+    <aspectTerms>
+      <aspectTerm term="Facebook" polarity="neutral" from="30" to="38"/>
+      <aspectTerm term="Camera" polarity="neutral" from="42" to="48"/>
+      <aspectTerm term="UI" polarity="neutral" from="70" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:86">
+    <text>Overall, our impression of TouchWiz is that it's really improved.</text>
+    <aspectTerms>
+      <aspectTerm term="TouchWiz" polarity="positive" from="27" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:87">
+    <text>There are a few issues however.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:88">
+    <text>Quick Connect managed to suck our battery and has been quite faulty every now and then, but it's been a problem exclusively with our white Galaxy S5.</text>
+    <aspectTerms>
+      <aspectTerm term="Quick Connect" polarity="negative" from="0" to="13"/>
+      <aspectTerm term="battery" polarity="neutral" from="34" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:89">
+    <text>We're happy to see the old version of TouchWiz go.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:90">
+    <text>The design of the Magazine UX is much more attractive.</text>
+    <aspectTerms>
+      <aspectTerm term="design of the Magazine UX" polarity="positive" from="4" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:91">
+    <text>Just hopping into settings will be further evidence as to why this is one of the most beautiful iterations of Android we've ever seen.</text>
+    <aspectTerms>
+      <aspectTerm term="settings" polarity="neutral" from="18" to="26"/>
+      <aspectTerm term="Android" polarity="positive" from="110" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:92">
+    <text>Fingerprint Scanner The Samsung Galaxy S5 also has a fingerprint scanner, you can use it to unlock your phone or to make secure payments through the PayPal app.</text>
+    <aspectTerms>
+      <aspectTerm term="Fingerprint Scanner" polarity="neutral" from="0" to="19"/>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="53" to="72"/>
+      <aspectTerm term="secure payments through the PayPal app" polarity="neutral" from="121" to="159"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:93">
+    <text>You can also make folders and other things on your phone private, requiring a fingerprint scan to access them.</text>
+    <aspectTerms>
+      <aspectTerm term="folders" polarity="neutral" from="18" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:94">
+    <text>You can have up to three fingers activate the fingerprint scanner.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint scanner" polarity="neutral" from="46" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:95">
+    <text>It doesn't always work but it does seven times out of ten.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:96">
+    <text>It works with more than just your finger, it also works with your thumb.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:97">
+    <text>There has been evidence of people being able to bypass this security, but it's not something to be overly concerned about.</text>
+    <aspectTerms>
+      <aspectTerm term="security" polarity="negative" from="60" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:98">
+    <text>If your fingerprint fails, don't worry you won't be locked out, as there is a code you can enter.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:99">
+    <text>S Health Given the Samsung Galaxy S5 has a heart rate monitor, it makes sense to talk about S Health.</text>
+    <aspectTerms>
+      <aspectTerm term="S Health" polarity="neutral" from="0" to="8"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="43" to="61"/>
+      <aspectTerm term="S Health" polarity="neutral" from="92" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:100">
+    <text>Opening the application and you'll notice three icons right at the top.</text>
+    <aspectTerms>
+      <aspectTerm term="application" polarity="neutral" from="12" to="23"/>
+      <aspectTerm term="icons" polarity="neutral" from="48" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:101">
+    <text>One is a pedometer, in the middle is a calories burned indicator, while the third is your food intake.</text>
+    <aspectTerms>
+      <aspectTerm term="pedometer" polarity="neutral" from="9" to="18"/>
+      <aspectTerm term="calories burned indicator" polarity="neutral" from="39" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:102">
+    <text>At the bottom you can access three different settings, whether it be Pedometer, Exercise or Heart Rate.</text>
+    <aspectTerms>
+      <aspectTerm term="settings" polarity="neutral" from="45" to="53"/>
+      <aspectTerm term="Pedometer" polarity="neutral" from="69" to="78"/>
+      <aspectTerm term="Exercise" polarity="neutral" from="80" to="88"/>
+      <aspectTerm term="Heart Rate" polarity="neutral" from="92" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:103">
+    <text>Tapping through to heart rate, the heart rate monitor on the back of the device will be activated.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate" polarity="neutral" from="19" to="29"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="35" to="53"/>
+      <aspectTerm term="back" polarity="neutral" from="61" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:104">
+    <text>Swiping in from the left and you get a few more options to play with.</text>
+    <aspectTerms>
+      <aspectTerm term="options" polarity="neutral" from="48" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:105">
+    <text>You can enter your weight and set calorie goals, perfect for keeping fit.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:106">
+    <text>While the coach option talks you through what you should do to lose weight.</text>
+    <aspectTerms>
+      <aspectTerm term="coach option" polarity="neutral" from="10" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:107">
+    <text>Think of it as a personal trainer in your pocket.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:108">
+    <text>Camera Activating the 16 megapixel camera on the Galaxy S5 is easy.</text>
+    <aspectTerms>
+      <aspectTerm term="Camera" polarity="neutral" from="0" to="6"/>
+      <aspectTerm term="16 megapixel camera" polarity="positive" from="22" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:109">
+    <text>All you need to do is swipe from the lock screen or tap the camera shortcut.</text>
+    <aspectTerms>
+      <aspectTerm term="lock screen" polarity="neutral" from="37" to="48"/>
+      <aspectTerm term="camera shortcut" polarity="neutral" from="60" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:110">
+    <text>Taking a picture is very quick and focusing is extremely fast.</text>
+    <aspectTerms>
+      <aspectTerm term="Taking a picture" polarity="positive" from="0" to="16"/>
+      <aspectTerm term="focusing" polarity="positive" from="35" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:111">
+    <text>You're better off tapping to focus before snapping a picture however, as the camera has a tendency to not focus without a tap first.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="negative" from="77" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:112">
+    <text>While the Samsung Galaxy S5 takes a pretty decent shot, there's quite a lot of evidence of post-processing to sharpen everything up.</text>
+    <aspectTerms>
+      <aspectTerm term="shot" polarity="positive" from="50" to="54"/>
+      <aspectTerm term="post-processing" polarity="negative" from="91" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:113">
+    <text>We'd argue that it doesn't take as good of a picture as the likes of the Sony Xperia Z2, but images are a lot more detailed than on the HTC One M8.</text>
+    <aspectTerms>
+      <aspectTerm term="picture" polarity="negative" from="45" to="52"/>
+      <aspectTerm term="images" polarity="positive" from="93" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:114">
+    <text>Despite that, the Samsung Galaxy S5 doesn't have as many manual controls.</text>
+    <aspectTerms>
+      <aspectTerm term="manual controls" polarity="negative" from="57" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:115">
+    <text>We have to say that the Samsung Galaxy S5's camera UI is one of our favourites, and we'd definitely prefer it over almost every other.</text>
+    <aspectTerms>
+      <aspectTerm term="camera UI" polarity="positive" from="44" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:116">
+    <text>It's extensively customisable.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:117">
+    <text>You have the option for front-facing camera, background defocus, HDR, camera flash and a toggle button on the left hand side.</text>
+    <aspectTerms>
+      <aspectTerm term="front-facing camera" polarity="neutral" from="24" to="43"/>
+      <aspectTerm term="background defocus" polarity="neutral" from="45" to="63"/>
+      <aspectTerm term="HDR" polarity="neutral" from="65" to="68"/>
+      <aspectTerm term="camera flash" polarity="neutral" from="70" to="82"/>
+      <aspectTerm term="toggle button" polarity="neutral" from="89" to="102"/>
+      <aspectTerm term="left hand side" polarity="neutral" from="110" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:118">
+    <text>Tapping to the toggle and you'll be hit with countless of settings that you can choose to have on the left hand side, rather than the standard ones mentioned earlier.</text>
+    <aspectTerms>
+      <aspectTerm term="toggle" polarity="neutral" from="15" to="21"/>
+      <aspectTerm term="settings" polarity="neutral" from="58" to="66"/>
+      <aspectTerm term="left hand side" polarity="neutral" from="102" to="116"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:119">
+    <text>Background defocus works quite well, but you'll have to be close to your object and it can take quite some time.</text>
+    <aspectTerms>
+      <aspectTerm term="Background defocus" polarity="conflict" from="0" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:120">
+    <text>A lot longer than the HTC One M8, or Xperia Z2.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:121">
+    <text>Alongside the plethora of options, there's also tons of shooting modes.</text>
+    <aspectTerms>
+      <aspectTerm term="options" polarity="positive" from="26" to="33"/>
+      <aspectTerm term="shooting modes" polarity="positive" from="56" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:122">
+    <text>What's more is that you can download as many shooting modes as there are available in the app store.</text>
+    <aspectTerms>
+      <aspectTerm term="shooting modes" polarity="positive" from="45" to="59"/>
+      <aspectTerm term="app store" polarity="neutral" from="90" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:123">
+    <text>We have to say that the automatic mode however is a joy.</text>
+    <aspectTerms>
+      <aspectTerm term="automatic mode" polarity="positive" from="24" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:124">
+    <text>Picture quality is really strong and nice and vibrant.</text>
+    <aspectTerms>
+      <aspectTerm term="Picture quality" polarity="positive" from="0" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:125">
+    <text>The flash is also very very bright.</text>
+    <aspectTerms>
+      <aspectTerm term="flash" polarity="positive" from="4" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:126">
+    <text>As far as video goes, the Galaxy S5 shoots in a load of formats.</text>
+    <aspectTerms>
+      <aspectTerm term="video" polarity="positive" from="10" to="15"/>
+      <aspectTerm term="formats" polarity="positive" from="56" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:127">
+    <text>There's 4k, full HD and 720p options, if you really want to sacrifice file size however you've also got the option to try out VGA.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:128">
+    <text>You also get multiple speeds to choose from, whether it be slow-motion, fast-motion or smooth motion.</text>
+    <aspectTerms>
+      <aspectTerm term="multiple speeds" polarity="neutral" from="13" to="28"/>
+      <aspectTerm term="slow-motion" polarity="neutral" from="59" to="70"/>
+      <aspectTerm term="fast-motion" polarity="neutral" from="72" to="83"/>
+      <aspectTerm term="smooth motion" polarity="neutral" from="87" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:129">
+    <text>The latter of which is 60fps.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:130">
+    <text>Slow-motion is also complete with a ton of different speeds, an eighth, quarter or half speed.</text>
+    <aspectTerms>
+      <aspectTerm term="Slow-motion" polarity="positive" from="0" to="11"/>
+      <aspectTerm term="speeds" polarity="positive" from="53" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:131">
+    <text>Which is perfect for those of you who like to tinker.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:132">
+    <text>Slower speeds however are shot at 720p and there is no UI to slow down certain things like on iOS and Sony's TimeShift Video on the Xperia Z2.</text>
+    <aspectTerms>
+      <aspectTerm term="Slower speeds" polarity="negative" from="0" to="13"/>
+      <aspectTerm term="UI" polarity="neutral" from="55" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:133">
+    <text>Multimedia The Samsung Galaxy S5's screen is just itching to be enjoyed, whether it's apps like Netflix, your own movies, photos, they're going to look fantastic.</text>
+    <aspectTerms>
+      <aspectTerm term="Multimedia" polarity="neutral" from="0" to="10"/>
+      <aspectTerm term="screen" polarity="positive" from="35" to="41"/>
+      <aspectTerm term="apps like Netflix" polarity="positive" from="86" to="103"/>
+      <aspectTerm term="movies" polarity="positive" from="114" to="120"/>
+      <aspectTerm term="photos" polarity="positive" from="122" to="128"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:134">
+    <text>In bright sunlight the blacks may get a little bit same but that's as we said only really noticeable in bright sunlight.</text>
+    <aspectTerms>
+      <aspectTerm term="blacks" polarity="negative" from="23" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:135">
+    <text>Otherwise they look very deep and colours look really nice and saturated.</text>
+    <aspectTerms>
+      <aspectTerm term="colours" polarity="positive" from="34" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:136">
+    <text>We were a little disappointed by the placement of the speaker however, it's incredibly easy to cover up.</text>
+    <aspectTerms>
+      <aspectTerm term="placement of the speaker" polarity="negative" from="37" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:137">
+    <text>You'll better off utilising separate headphones or a bluetooth speaker.</text>
+    <aspectTerms>
+      <aspectTerm term="headphones" polarity="neutral" from="37" to="47"/>
+      <aspectTerm term="bluetooth speaker" polarity="neutral" from="53" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:138">
+    <text>Gaming on the Galaxy S5 is an absolute treat.</text>
+    <aspectTerms>
+      <aspectTerm term="Gaming" polarity="positive" from="0" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:139">
+    <text>The large 5.1-inch Super AMOLED display ensure that on-screen controls are no problem whatsoever and performance is no issue either.</text>
+    <aspectTerms>
+      <aspectTerm term="5.1-inch Super AMOLED display" polarity="positive" from="10" to="39"/>
+      <aspectTerm term="on-screen controls" polarity="positive" from="52" to="70"/>
+      <aspectTerm term="performance" polarity="positive" from="101" to="112"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:140">
+    <text>You can even run more than one game in the background without having to sacrifice performance.</text>
+    <aspectTerms>
+      <aspectTerm term="game in the background" polarity="neutral" from="31" to="53"/>
+      <aspectTerm term="performance" polarity="positive" from="82" to="93"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:141">
+    <text>We'd say that this is one of the best gaming phones on the market, as long as you don't account for sound quality, since you're going to want to plug in some external headphones.</text>
+    <aspectTerms>
+      <aspectTerm term="gaming" polarity="positive" from="38" to="44"/>
+      <aspectTerm term="sound quality" polarity="negative" from="100" to="113"/>
+      <aspectTerm term="external headphones" polarity="neutral" from="158" to="177"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:142">
+    <text>Performance The Galaxy S5's performance is incredibly impressive.</text>
+    <aspectTerms>
+      <aspectTerm term="Performance" polarity="neutral" from="0" to="11"/>
+      <aspectTerm term="performance" polarity="positive" from="28" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:143">
+    <text>The 2GB of RAM and Qualcomm Snapdragon 801 processor really nails it.</text>
+    <aspectTerms>
+      <aspectTerm term="2GB of RAM" polarity="positive" from="4" to="14"/>
+      <aspectTerm term="Qualcomm Snapdragon 801 processor" polarity="positive" from="19" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:144">
+    <text>It's smoother than both the Galaxy S4 and Galaxy Note 3, despite the latter of which featuring 3GB of RAM.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:145">
+    <text>The UI has been streamlined and the ability to turn off My Magazine is a godsend.</text>
+    <aspectTerms>
+      <aspectTerm term="UI" polarity="positive" from="4" to="6"/>
+      <aspectTerm term="My Magazine" polarity="negative" from="56" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:146">
+    <text>We'd go so far as to say that this is the most powerful Samsung Galaxy on the market right now, or at least the most optimised.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:147">
+    <text>As connections go, you've got everything and the kitchen sink.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:148">
+    <text>You don't have wireless charging as standard like on the upcoming Nokia Lumia 930, but you can get a wireless charging back plate for it.</text>
+    <aspectTerms>
+      <aspectTerm term="wireless charging" polarity="neutral" from="15" to="32"/>
+      <aspectTerm term="wireless charging back plate" polarity="neutral" from="101" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:149">
+    <text>You've got an IR blaster, USB 3.0 and it's water resistant.</text>
+    <aspectTerms>
+      <aspectTerm term="IR blaster" polarity="neutral" from="14" to="24"/>
+      <aspectTerm term="USB 3.0" polarity="neutral" from="26" to="33"/>
+      <aspectTerm term="water resistant" polarity="neutral" from="43" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:150">
+    <text>The battery life on the Samsung Galaxy S5 is nothing to phone home about, and after about a day, you won't be able to phone home at all.</text>
+    <aspectTerms>
+      <aspectTerm term="battery life" polarity="neutral" from="4" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:151">
+    <text>You can turn ultra power saving mode on but it takes an age to activate and disables a ton of applications it thinks are going to use battery.</text>
+    <aspectTerms>
+      <aspectTerm term="ultra power saving mode" polarity="negative" from="13" to="36"/>
+      <aspectTerm term="applications" polarity="neutral" from="94" to="106"/>
+      <aspectTerm term="battery" polarity="neutral" from="134" to="141"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:152">
+    <text>You still get internet access though, which is more than the HTC One M8's ultra power saving mode does.</text>
+    <aspectTerms>
+      <aspectTerm term="internet access" polarity="neutral" from="14" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:153">
+    <text>You also have access to the likes of Facebook, Twitter and Google+ however, but don't expect access to the camera.</text>
+    <aspectTerms>
+      <aspectTerm term="Facebook" polarity="neutral" from="37" to="45"/>
+      <aspectTerm term="Twitter" polarity="neutral" from="47" to="54"/>
+      <aspectTerm term="Google+" polarity="neutral" from="59" to="66"/>
+      <aspectTerm term="access to the camera" polarity="negative" from="93" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:154">
+    <text>Given the Samsung Galaxy S5's battery is user replaceable, you can always carry spares if you feel like you're not going to be able to last until the next charge, negating the need to go into ultra power saving mode.</text>
+    <aspectTerms>
+      <aspectTerm term="battery" polarity="neutral" from="30" to="37"/>
+      <aspectTerm term="ultra power saving mode" polarity="neutral" from="192" to="215"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:155">
+    <text>You should be able to find the batteries readily available on places like eBay or through official retailers.</text>
+    <aspectTerms>
+      <aspectTerm term="batteries" polarity="neutral" from="31" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:156">
+    <text>Conclusion The Samsung Galaxy S5 was always going to be a good phone, the question was always going to be how good is it, and it is very good.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:157">
+    <text>There are some key advantages over the competition, such as the swappable back cover being the main one, and being able to replace the battery.</text>
+    <aspectTerms>
+      <aspectTerm term="swappable back cover" polarity="positive" from="64" to="84"/>
+      <aspectTerm term="battery" polarity="positive" from="135" to="142"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:158">
+    <text>It's also the most ergonomic and easiest to reach all the corners.</text>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:159">
+    <text>We're also glad to see the back of the glossy design of the Galaxy S4, and the Galaxy S5's matte backing is much more preferable.</text>
+    <aspectTerms>
+      <aspectTerm term="glossy design" polarity="positive" from="39" to="52"/>
+      <aspectTerm term="matte backing" polarity="positive" from="91" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:160">
+    <text>The display is also beautiful, the UI is much much preferred over TouchWiz Nature UX of old.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="positive" from="4" to="11"/>
+      <aspectTerm term="UI" polarity="positive" from="35" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:161">
+    <text>There are a few points of contention, we did have a few battery issues, for the most part though you should get at least a full day out of this phone.</text>
+    <aspectTerms>
+      <aspectTerm term="battery" polarity="negative" from="56" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:162">
+    <text>We'd also say there's a lot of gimmicks on the device, the heart rate monitor or fingerprint scanner for instance aren't strong enough reasons to opt for the Galaxy S5 over its competition.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="negative" from="59" to="77"/>
+      <aspectTerm term="fingerprint scanner" polarity="negative" from="81" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="bRv5JrKnp3M:163">
+    <text>The camera does perform very well, and once again you have a very solid Galaxy device from Samsung.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="4" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:0">
+    <text>The Samsung Galaxy S4 was a record-breaking all-time sales record for Samsung.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:1">
+    <text>It may have been made out of plastic and rainy heavily skinned Android software, but it was a great Android device for millions and let's face it, Android wouldn't be where they are now without Samsung</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:2">
+    <text>So, when Samsung scratches their heads to make the new flagship we all tend to look, the result is the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:3">
+    <text>Now I've used this device for the past two weeks and I'm ready to give you my full review.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:4">
+    <text>So here it is.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:5">
+    <text>This is probably one of the most important reviews I will do in 2014, so let's get it right.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:6">
+    <text>The Samsung Galaxy S5 is Samsung's fifth generation flagship device.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:7">
+    <text>It shares a lot of DNA with the previous Samsung Galaxy S models.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:8">
+    <text>What's new this year is just about everything.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:9">
+    <text>The screen size has been bumped up to 5.1 inches, but it keeps the same resolution of 1920 by 1080.</text>
+    <aspectTerms>
+      <aspectTerm term="screen size" polarity="positive" from="4" to="15"/>
+      <aspectTerm term="resolution of 1920 by 1080" polarity="neutral" from="72" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:10">
+    <text>The Snapdragon 600 processor has been swapped for a more powerful 801 chip.</text>
+    <aspectTerms>
+      <aspectTerm term="801 chip" polarity="positive" from="66" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:11">
+    <text>The RAM remains at two gigabytes.</text>
+    <aspectTerms>
+      <aspectTerm term="RAM" polarity="neutral" from="4" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:12">
+    <text>The camera has been bumped up to 16 megapixels.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="positive" from="4" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:13">
+    <text>One of the interesting new features is the back case, which reminds me a lot of the Motorola Moto X.</text>
+    <aspectTerms>
+      <aspectTerm term="back case" polarity="positive" from="43" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:14">
+    <text>It doesn't have quite the same texture or the feeling, but it does feel a lot better than the slippery glossy plastic found on the Samsung Galaxy S4.</text>
+    <aspectTerms>
+      <aspectTerm term="texture" polarity="positive" from="31" to="38"/>
+      <aspectTerm term="feeling" polarity="positive" from="46" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:15">
+    <text>Yes! The S5 actually feels the heck of a lot better in the hand than the S4, which is strange because besides from the back cover they're basically built up of the same material</text>
+    <aspectTerms>
+      <aspectTerm term="back cover" polarity="neutral" from="119" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:16">
+    <text>The other main difference between the S4 and S5 in terms of aesthetic design is the corners.</text>
+    <aspectTerms>
+      <aspectTerm term="aesthetic design" polarity="neutral" from="60" to="76"/>
+      <aspectTerm term="corners" polarity="neutral" from="84" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:17">
+    <text>Now, the S4 is more rounded and the five is more straight, but that's about it.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:18">
+    <text>Taking a look around the phone, you'll see the slight changes on where the things are placed.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:19">
+    <text>For example, the headphones jack is now on the left side.</text>
+    <aspectTerms>
+      <aspectTerm term="headphones jack" polarity="neutral" from="17" to="32"/>
+      <aspectTerm term="left side" polarity="neutral" from="47" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:20">
+    <text>Also, you'll see a new cover door for the micro USB 3 charging port.</text>
+    <aspectTerms>
+      <aspectTerm term="cover door for the micro USB 3 charging port" polarity="neutral" from="23" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:21">
+    <text>This sort of reminds me of a sliding door on the Samsung Galaxy S2, but it's a lot less cooler than the door.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:22">
+    <text>You are probably wondering why you need a cover to protect the micro USB ports.</text>
+    <aspectTerms>
+      <aspectTerm term="cover" polarity="neutral" from="42" to="47"/>
+      <aspectTerm term="micro USB ports" polarity="neutral" from="63" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:23">
+    <text>Well, if you also lifted up the back cover you'll see its rubber gasket.</text>
+    <aspectTerms>
+      <aspectTerm term="back cover" polarity="neutral" from="32" to="42"/>
+      <aspectTerm term="rubber gasket" polarity="neutral" from="58" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:24">
+    <text>This phone is IP 67 rated, which means it's able to stand being submerged into one meter of water for 30 minutes.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:25">
+    <text>Now, you can go scuba diving with it, but you can't drop it in the sink.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:26">
+    <text>But, let's face it, the most common thing to do is dropping it in the toilet and that shouldn't cause it too much harm.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:27">
+    <text>And if you and dropped in the toilet and flushed it down, it's ruined anyway.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:28">
+    <text>So, here's a glass of water and here's the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:29">
+    <text>We'll just drop it in for a few seconds and make sure our phone still works.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:30">
+    <text>And there we go, works just fine.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:31">
+    <text>Next, I wanna talk about the display again.</text>
+    <aspectTerms>
+      <aspectTerm term="display" polarity="neutral" from="29" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:32">
+    <text>I'll take color accuracy over saturation any day.</text>
+    <aspectTerms>
+      <aspectTerm term="color accuracy" polarity="neutral" from="10" to="24"/>
+      <aspectTerm term="saturation" polarity="neutral" from="30" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:33">
+    <text>That's why I enjoy watching things in IPS displays like the M8's, but I do have to say the Samsung Galaxy S5 five has probably one of the best if not the best displays currently on the market.</text>
+    <aspectTerms>
+      <aspectTerm term="displays" polarity="positive" from="159" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:34">
+    <text>I'm a hundred percent completely sold.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:35">
+    <text>I don't care how not accurate my colors are, just look at everything.</text>
+    <aspectTerms>
+      <aspectTerm term="colors" polarity="neutral" from="33" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:36">
+    <text>It absolutely pops.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:37">
+    <text>Then we move on to the home button.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="23" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:38">
+    <text>You might be asking: "why, it's just a button".</text>
+    <aspectTerms>
+      <aspectTerm term="button" polarity="neutral" from="39" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:39">
+    <text>Or is it?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:40">
+    <text>Samsung has rather cleverly placed the fingerprint reader underneath the home button, similar to touch ID on the iPhone 5.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint reader" polarity="positive" from="39" to="57"/>
+      <aspectTerm term="home button" polarity="neutral" from="73" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:41">
+    <text>Now, this will allow you to lock your device and use your fingerprint as the password.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:42">
+    <text>The only trouble is that it works about fifty percent of the time.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:43">
+    <text>Since the home button's about one fourth the size of your finger you actually have to swipe down, unlike the iPhone where just simply place your finger on top of the home button.</text>
+    <aspectTerms>
+      <aspectTerm term="home button" polarity="neutral" from="10" to="21"/>
+      <aspectTerm term="home button" polarity="neutral" from="166" to="177"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:44">
+    <text>So the slightest wiggle or off-angle finger and you'll get this: a fingerprint error.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:45">
+    <text>So, then it becomes more of a hassle rather than a security step to protect your phone.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:46">
+    <text>So, please use a different type a security measurement.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:47">
+    <text>Next on the list is the heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="24" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:48">
+    <text>This is probably the funniest most gimmicky thing on the new S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:49">
+    <text>Why?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:50">
+    <text>Because if you have a phone with a flash and some kind of AppStore you already have a heart rate monitor.</text>
+    <aspectTerms>
+      <aspectTerm term="flash" polarity="neutral" from="35" to="40"/>
+      <aspectTerm term="AppStore" polarity="neutral" from="58" to="66"/>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="86" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:51">
+    <text>Just google it, it's on the AppStore.</text>
+    <aspectTerms>
+      <aspectTerm term="AppStore" polarity="neutral" from="28" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:52">
+    <text>There's tons of them.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:53">
+    <text>Mac Mixing actually made a video displaying how accurate those third-party applications are to the sold one built on S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:54">
+    <text>So, anyway, it's positioned beneath the camera, just right to the flash and uses a red light to measure your pulse.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="neutral" from="40" to="46"/>
+      <aspectTerm term="flash" polarity="neutral" from="66" to="71"/>
+      <aspectTerm term="red light" polarity="neutral" from="83" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:55">
+    <text>And actually works considerably well, a lot better than the fingerprint reader.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint reader" polarity="negative" from="60" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:56">
+    <text>But will I be using this feature on an everyday basis?</text>
+    <aspectTerms>
+      <aspectTerm term="feature" polarity="neutral" from="25" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:57">
+    <text>Not really.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:58">
+    <text>It makes much more sense to have a heart rate monitor on a watch since it'll have a constant contact point with your skin.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="35" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:59">
+    <text>So, if you want a heart rate monitor by one of the new Samsung Gear watches.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="neutral" from="18" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:60">
+    <text>Next, let's take a deep dive into the software of the S5.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="neutral" from="38" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:61">
+    <text>It runs Android 4.4.2 KitKat, with the latest version of their TouchWiz software.</text>
+    <aspectTerms>
+      <aspectTerm term="Android 4.4.2 KitKat" polarity="neutral" from="8" to="28"/>
+      <aspectTerm term="TouchWiz software" polarity="neutral" from="63" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:62">
+    <text>Actually, we don't wanna refer to it as TouchWiz, but basically it's TouchWiz</text>
+    <aspectTerms>
+      <aspectTerm term="TouchWiz" polarity="neutral" from="40" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:63">
+    <text>I've actually that were toned down in touch was a previous models in Note 3 and the S4, and it does feel a lot more snappy than all those previous generations.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:64">
+    <text>It's a little bit more tailored rather than Samsung's own software, but the experience is a lot more snappy than in the S4.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="positive" from="58" to="66"/>
+      <aspectTerm term="experience" polarity="positive" from="76" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:65">
+    <text>Now, part of that is mainly because of software revamp but also because of the new quad-core 801 chip from Snapdragon.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="positive" from="39" to="47"/>
+      <aspectTerm term="quad-core 801 chip from Snapdragon" polarity="positive" from="83" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:66">
+    <text>That's pretty comparable to the actual 600 processor found on the S4.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:67">
+    <text>The performances are not that big of a difference.</text>
+    <aspectTerms>
+      <aspectTerm term="performances" polarity="neutral" from="4" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:68">
+    <text>Again GeekBench will tell you a big different story, but in personal personal usage it's not that much faster.</text>
+    <aspectTerms>
+      <aspectTerm term="personal usage" polarity="neutral" from="69" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:69">
+    <text>Through the menu you can see little subtle changes in the UI, but you can obviously see the DNA that has been passed in it.</text>
+    <aspectTerms>
+      <aspectTerm term="menu" polarity="neutral" from="12" to="16"/>
+      <aspectTerm term="UI" polarity="neutral" from="58" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:70">
+    <text>I guess with time we'll see a lot less off the skin but it's a good start for Samsung.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:71">
+    <text>One thing I do like is the menu structure within the settings.</text>
+    <aspectTerms>
+      <aspectTerm term="menu structure within the settings" polarity="positive" from="27" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:72">
+    <text>It just reminds me of a mixture of iOS and maybe Web OS and Android.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:73">
+    <text>I don't know if I'm the only one who actually likes this type of set up, but I do like it for the most part.</text>
+    <aspectTerms>
+      <aspectTerm term="set up" polarity="positive" from="65" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:74">
+    <text>And for the most part, TouchWiz is massively improved.</text>
+    <aspectTerms>
+      <aspectTerm term="TouchWiz" polarity="positive" from="23" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:75">
+    <text>Throughout the entire software and applications and Google Chrome the S5 hills it like a champ, which is not an easy thing to say for Samsung Galaxy S4.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="positive" from="22" to="30"/>
+      <aspectTerm term="applications" polarity="positive" from="35" to="47"/>
+      <aspectTerm term="Google Chrome" polarity="positive" from="52" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:76">
+    <text>That phone actually had trouble running its own soft run in a few places.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:77">
+    <text>There's only one part of a software that this phone still has a hard time handling.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="negative" from="27" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:78">
+    <text>It's in My Magazine.</text>
+    <aspectTerms>
+      <aspectTerm term="My Magazine" polarity="neutral" from="8" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:79">
+    <text>And in the backbone of this comes Flipboard, which runs absolutely fine, but for some reason this My Magazine feature on the Samsung Galaxy S5 will slow down, especially when fired up for the first time that day.</text>
+    <aspectTerms>
+      <aspectTerm term="Flipboard" polarity="positive" from="34" to="43"/>
+      <aspectTerm term="My Magazine feature" polarity="negative" from="98" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:80">
+    <text>Now, My Magazine is not a feature I would use on a regular basis.</text>
+    <aspectTerms>
+      <aspectTerm term="My Magazine" polarity="negative" from="5" to="16"/>
+      <aspectTerm term="feature" polarity="negative" from="26" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:81">
+    <text>I only used this for the sole purpose of reviewing this phone.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:82">
+    <text>I found it not to be entirely useful because it's not as flexible as things like Blink Feed or sole applications like My News applications.</text>
+    <aspectTerms>
+      <aspectTerm term="Blink Feed" polarity="neutral" from="81" to="91"/>
+      <aspectTerm term="My News applications" polarity="neutral" from="118" to="138"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:83">
+    <text>Now, the biggest shift in this industry this year is the focus on battery life.</text>
+    <aspectTerms>
+      <aspectTerm term="battery life" polarity="neutral" from="66" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:84">
+    <text>I think this year or the year next will be the biggest game changers in battery performance and you don't have to thank the people who make your batteries, but it's the people writing your software.</text>
+    <aspectTerms>
+      <aspectTerm term="battery performance" polarity="neutral" from="72" to="91"/>
+      <aspectTerm term="batteries" polarity="neutral" from="145" to="154"/>
+      <aspectTerm term="software" polarity="neutral" from="189" to="197"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:85">
+    <text>The Samsung Galaxy S5 has an ultra power saving mode which basically turns the entire phone off, except the phone's still on.</text>
+    <aspectTerms>
+      <aspectTerm term="ultra power saving mode" polarity="neutral" from="29" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:86">
+    <text>You can select the applications you want to run while in this mode, but things like WiFi and Bluetooth constant updating and even the color pixels are simply switched off and you have this gray scale display.</text>
+    <aspectTerms>
+      <aspectTerm term="applications" polarity="neutral" from="19" to="31"/>
+      <aspectTerm term="mode" polarity="neutral" from="62" to="66"/>
+      <aspectTerm term="WiFi" polarity="neutral" from="84" to="88"/>
+      <aspectTerm term="Bluetooth constant updating" polarity="neutral" from="93" to="120"/>
+      <aspectTerm term="color pixels" polarity="neutral" from="134" to="146"/>
+      <aspectTerm term="gray scale display" polarity="neutral" from="189" to="207"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:87">
+    <text>This mode will give you a little under two weeks of battery life on a full charge.</text>
+    <aspectTerms>
+      <aspectTerm term="mode" polarity="neutral" from="5" to="9"/>
+      <aspectTerm term="battery life" polarity="neutral" from="52" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:88">
+    <text>Though the software is not aesthetically pleasing, it will be a huge boost when you lose your charger or you're stuck in a deserted island like Lost.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="conflict" from="11" to="19"/>
+      <aspectTerm term="charger" polarity="neutral" from="94" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:89">
+    <text>You never know when that stuff happens.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:90">
+    <text>When you're not in power saving mode, battery offers a solid day of usage and you don't have to carry around a charger to make it through a full day, which is always a plus.</text>
+    <aspectTerms>
+      <aspectTerm term="power saving mode" polarity="neutral" from="19" to="36"/>
+      <aspectTerm term="battery" polarity="positive" from="38" to="45"/>
+      <aspectTerm term="charger" polarity="neutral" from="111" to="118"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:91">
+    <text>Performance's rock-solid.</text>
+    <aspectTerms>
+      <aspectTerm term="Performance" polarity="positive" from="0" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:92">
+    <text>You won't see huge performance gains compared to the Samsung Galaxy S4, but GeekBench will tell you otherwise.</text>
+    <aspectTerms>
+      <aspectTerm term="performance" polarity="neutral" from="19" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:93">
+    <text>You also notice the speed differences when you browse the web or run intensive applications that take advantage of the new Adrenal 330 graphics card.</text>
+    <aspectTerms>
+      <aspectTerm term="speed" polarity="neutral" from="20" to="25"/>
+      <aspectTerm term="Adrenal 330 graphics card" polarity="neutral" from="123" to="148"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:94">
+    <text>But for everyday usage you won't see the difference.</text>
+    <aspectTerms>
+      <aspectTerm term="everyday usage" polarity="neutral" from="8" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:95">
+    <text>Then we get to the camera.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="neutral" from="19" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:96">
+    <text>Samsung is not too far away from Sony or Nokia phone manufacturers, with a huge mega pixel count.</text>
+    <aspectTerms>
+      <aspectTerm term="mega pixel count" polarity="positive" from="80" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:97">
+    <text>This one has 16 megapixels. In fact the photos of the S5 look great, just as good as the iPhone 5S, a million times better than the HTC One in detail, but they do have a cold hutsy venom.</text>
+    <aspectTerms>
+      <aspectTerm term="photos" polarity="positive" from="40" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:98">
+    <text>But the detail of the photos are breathtaking, even in these low light shots the details are crisp.</text>
+    <aspectTerms>
+      <aspectTerm term="detail of the photos" polarity="positive" from="8" to="28"/>
+      <aspectTerm term="low light shots" polarity="positive" from="61" to="76"/>
+      <aspectTerm term="details" polarity="positive" from="81" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:99">
+    <text>Now there is a bit of noise but you can expect that with any camera, especially if one with a 16 megapixel count.</text>
+    <aspectTerms>
+      <aspectTerm term="camera" polarity="conflict" from="61" to="67"/>
+      <aspectTerm term="16 megapixel count" polarity="neutral" from="94" to="112"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:100">
+    <text>The video's also not bad.</text>
+    <aspectTerms>
+      <aspectTerm term="video" polarity="neutral" from="4" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:101">
+    <text>It shoots 4K, but that's a lie.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:102">
+    <text>4K is 4096 by 2160 and this shoots a more web friendly UHD video at 3840 by 2160.</text>
+    <aspectTerms>
+      <aspectTerm term="UHD video at 3840 by 2160" polarity="neutral" from="55" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:103">
+    <text>The video does lack OIS, yes, but the autofocus is absolutely killer on this video.</text>
+    <aspectTerms>
+      <aspectTerm term="video" polarity="negative" from="4" to="9"/>
+      <aspectTerm term="OIS" polarity="negative" from="20" to="23"/>
+      <aspectTerm term="autofocus" polarity="positive" from="38" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:104">
+    <text>I actually have a separate clip uploaded to the phoneDog YouTube channel about the S5 showing a UHD video very shortly.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:105">
+    <text>That was a lot of information.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:106">
+    <text>Now, we try to put it in more simple terms.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:107">
+    <text>KDHE put the S5 in the best terms, I think I've never heard differently since the S5 was announced.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:108">
+    <text>But this is basically or essentially the S4S from Samsung.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:109">
+    <text>Well, I know what you guys are saying: "Well, the S4 was the S model of the S3".</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:110">
+    <text>Well, I do agree with you, it's not a radical change from basically the last three or four years of Samsung Galaxy phones, but again you have to think how hard it is to really redesign a phone.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:111">
+    <text>I'm not a phone engineer, I don't build those, but I can't even imagine how hard it is for engineers to sit down and actually brainstorm ideas.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:112">
+    <text>Now I'm sure you guys have plenty of ideas, but you have to make them practical, you know, something that Samsung can afford.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:113">
+    <text>Now, you still have to make money off this phone, so obviously we can just jam in, you know, space lasers, whatever you want into the S5, but again vast's vast.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:114">
+    <text>Now, I am left with a little bit of disappointment for Samsung.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:115">
+    <text>Why?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:116">
+    <text>Because this isn't really the phone I wanted from Samsung.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:117">
+    <text>I wanted something completely different.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:118">
+    <text>I wanted something more of the lines of the HTC One from Samsung, with a metal built, with a really awesome software, I'm talking about like Google software, Google partnership.</text>
+    <aspectTerms>
+      <aspectTerm term="software" polarity="neutral" from="108" to="116"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:119">
+    <text>Now, that is gonna happen in the future.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:120">
+    <text>I know Samsung and Google are becoming more friends now, so hopefully we'll have some kind of Samsung Galaxy Nexus device that's high-quality premium and something that doesn't run TouchWiz.</text>
+    <aspectTerms>
+      <aspectTerm term="TouchWiz" polarity="negative" from="181" to="189"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:121">
+    <text>And yes, the S5 might still be one the best Android devices in 2014.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:122">
+    <text>Now we don't want to call it best phone just yet, because what we're still in 2014 and we have a kind of dogfight between the HTC One versus the S5 and we'll see which one comes out on top that dogfight, which will be coming very soon, so stay tuned.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:123">
+    <text>But again, this is one of the best Android devices so far.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:124">
+    <text>Now I am still very disappointed from Samsung not to see so much radical change.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:125">
+    <text>But again, maybe we're expecting too much from the spot on manufacturers to put all great new features on every single device.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:126">
+    <text>So, that's basically the story for Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:127">
+    <text>It's the best Samsung Galaxy S device that I've used so far, but again we say that for every single device that comes up, like the new HTC One, the new iPhone, the new LG G3, whatever you wanna call it, every single phone will be better than the phone before it.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:128">
+    <text>But again, this phone is the best S4 model that you can get.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:129">
+    <text>So if you want a brand new Samsung Galaxy device, just buy the S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:130">
+    <text>Why not buy the S4?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:131">
+    <text>Because it's technology, you get more technology and more features on the Samsung Galaxy S5.</text>
+    <aspectTerms>
+      <aspectTerm term="technology" polarity="neutral" from="13" to="23"/>
+      <aspectTerm term="technology" polarity="positive" from="38" to="48"/>
+      <aspectTerm term="features" polarity="positive" from="58" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:132">
+    <text>For the things like the heart rate monitor and the fingerprint scanner, those things are pretty much gimmicks for me.</text>
+    <aspectTerms>
+      <aspectTerm term="heart rate monitor" polarity="negative" from="24" to="42"/>
+      <aspectTerm term="fingerprint scanner" polarity="negative" from="51" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:133">
+    <text>I don't see why they are necessary, especially if they were implemented in such a poor way.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:134">
+    <text>The fingerprint reader on the S5, which works about fifty percent of the time, is just not the useful thing to have on this device.</text>
+    <aspectTerms>
+      <aspectTerm term="fingerprint reader" polarity="negative" from="4" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:135">
+    <text>I would have wanted something more, like OIS on the video camera to make the 4K video look absolutely amazing, something that the HTC One lacks, something the iPhone lacks.</text>
+    <aspectTerms>
+      <aspectTerm term="OIS on the video camera" polarity="negative" from="41" to="64"/>
+      <aspectTerm term="4K video" polarity="negative" from="77" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:136">
+    <text>So, maybe that's what Samsung should have invested in, things that we actually use every single day.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:137">
+    <text>So what do you think about that?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:138">
+    <text>Let me hear what you guys think about the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:139">
+    <text>Again, we'll have much more content on the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:140">
+    <text>I hope you enjoyed the full review.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:141">
+    <text>I've been using this guy for two weeks, I couldn't talk about it and now I can finally talk about it I'm so happy to tell you guys all about the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:142">
+    <text>So again I wanna know what you guys think about the Samsung Galaxy S5.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:143">
+    <text>So give us comments below, give us video thumbs up.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:144">
+    <text>You found this video helpful or you liked it in any other way?</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:145">
+    <text>And also please subscribe for future content, especially if you wanna see more S5 videos: HTC One verses S5, iPhone 5s versus S5, basically all the phone videos that you wanna see will be coming here very shortly on PhoneDog.com.</text>
+  </sentence>
+  <sentence id="zV0u2UFwv6E:146">
+    <text>My name is Marco Hanna from from PhoneDog.com, I'll see you guys in the next video.</text>
+  </sentence>
+</sentences>
